@@ -11,6 +11,12 @@ software:
 
 [What kind of special training do engineers working on mission-critical software receive? [closed]](https://github.com/stanislaw/awesome-safety-critical/blob/master/What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Stack_Overflow.pdf) and [its followup on Reddit](https://www.reddit.com/r/programming/comments/5iohue/what_kind_of_special_training_do_engineers/).
 
+## Standards
+
+- [DO-178B](https://en.wikipedia.org/wiki/DO-178B)
+
+> DO-178B, Software Considerations in Airborne Systems and Equipment Certification is a guideline dealing with the safety of safety-critical software used in certain airborne systems. Although technically a guideline, it is (or was) a de facto standard for developing avionics software systems. (Wikipedia)
+
 ## Coding guidelines
 
 - [MISRA guidelines](https://www.misra.org.uk/Publications/tabid/57/Default.aspx)
