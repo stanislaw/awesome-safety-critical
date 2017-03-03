@@ -45,19 +45,21 @@ software:
 
 - [JOINT STRIKE FIGHTER AIR VEHICLE C++ CODING STANDARDS](http://www.stroustrup.com/JSF-AV-rules.pdf)
 
-## Other
+## Questions and Answers
 
-[Military COTS-based systems: Not necessarily right off the shelf](http://pdf.cloud.opensystemsmedia.com/advancedtca-systems.com/SBS.Jan04.pdf)
+- What is the difference between mission-critical and safery-critical software?
 
 This article contains interesting section on what is the difference between
-mission-critical and safery-critical software.
+mission-critical and safery-critical software: [Military COTS-based systems: Not necessarily right off the shelf](http://pdf.cloud.opensystemsmedia.com/advancedtca-systems.com/SBS.Jan04.pdf)
+
+- What are the differences between DO-178B and DO-178C?
+
+TODO
+
+## Other
 
 [Safety in Medical Device Software: Questions and Answers](http://electronicdesign.com/embedded/safety-medical-device-software-questions-and-answers)
 
 ## Books
 
 - [Writing Solid Code](http://writingsolidcode.com/)
-
-## Questions to answer
-
-- What are the differences between DO-178B and DO-178C?
