@@ -21,6 +21,10 @@ software:
 
 > IEC 61508 is an international standard published by the International Electrotechnical Commission of rules applied in industry. It is titled Functional Safety of Electrical/Electronic/Programmable Electronic Safety-related Systems (E/E/PE, or E/E/PES).
 
+- [ARINC standards](https://en.wikipedia.org/wiki/ARINC#Standards)
+
+> The ARINC Standards are prepared by the Airlines Electronic Engineering Committee (AEEC) where Rockwell Collins and other aviation suppliers serve as a contributor in support of their airline customer base. (Wikipedia)
+
 ## Coding guidelines
 
 - [MISRA guidelines](https://www.misra.org.uk/Publications/tabid/57/Default.aspx)
