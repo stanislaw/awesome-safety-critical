@@ -53,3 +53,7 @@ mission-critical and safery-critical software.
 ## Books
 
 - [Writing Solid Code](http://writingsolidcode.com/)
+
+## Questions to answer
+
+- What are the differences between DO-178B and DO-178C?
