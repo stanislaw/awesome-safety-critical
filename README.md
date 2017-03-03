@@ -17,6 +17,10 @@ software:
 
 > DO-178B, Software Considerations in Airborne Systems and Equipment Certification is a guideline dealing with the safety of safety-critical software used in certain airborne systems. Although technically a guideline, it is (or was) a de facto standard for developing avionics software systems. (Wikipedia)
 
+- [IEC 61508](https://en.wikipedia.org/wiki/IEC_61508)
+
+> IEC 61508 is an international standard published by the International Electrotechnical Commission of rules applied in industry. It is titled Functional Safety of Electrical/Electronic/Programmable Electronic Safety-related Systems (E/E/PE, or E/E/PES).
+
 ## Coding guidelines
 
 - [MISRA guidelines](https://www.misra.org.uk/Publications/tabid/57/Default.aspx)
