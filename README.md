@@ -47,10 +47,10 @@ software:
 
 ## Questions and Answers
 
-- What is the difference between mission-critical and safery-critical software?
+- What is the difference between mission-critical and safety-critical software?
 
 This article contains interesting section on what is the difference between
-mission-critical and safery-critical software: [Military COTS-based systems: Not necessarily right off the shelf](http://pdf.cloud.opensystemsmedia.com/advancedtca-systems.com/SBS.Jan04.pdf)
+mission-critical and safety-critical software: [Military COTS-based systems: Not necessarily right off the shelf](http://pdf.cloud.opensystemsmedia.com/advancedtca-systems.com/SBS.Jan04.pdf)
 
 - What are the differences between DO-178B and DO-178C?
 
