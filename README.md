@@ -52,6 +52,10 @@ software:
 This article contains interesting section on what is the difference between
 mission-critical and safety-critical software: [Military COTS-based systems: Not necessarily right off the shelf](http://pdf.cloud.opensystemsmedia.com/advancedtca-systems.com/SBS.Jan04.pdf)
 
+- What kind of special training do engineers working on mission-critical software receive?
+
+See [What kind of special training do engineers working on mission-critical software receive? [closed]](https://github.com/stanislaw/awesome-safety-critical/blob/master/What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Stack_Overflow.pdf) and [its followup on Reddit](https://www.reddit.com/r/programming/comments/5iohue/what_kind_of_special_training_do_engineers/). **In the Reddit thread there are 2 expanded answers**.
+
 - What are the differences between DO-178B and DO-178C?
 
 TODO
