@@ -45,6 +45,12 @@ software:
 
 - [JOINT STRIKE FIGHTER AIR VEHICLE C++ CODING STANDARDS](http://www.stroustrup.com/JSF-AV-rules.pdf)
 
+## Incidents
+
+- [Mars Climate Orbiter Mishap Investigation](ftp://ftp.hq.nasa.gov/pub/pao/reports/1999/MCO_report.pdf)
+
+- [An Investigation of the Therac-25 Accidents](https://www.cs.nmt.edu/~cse382/reading/therac-25.pdf)
+
 ## Questions and Answers
 
 - What is the difference between mission-critical and safety-critical software?
