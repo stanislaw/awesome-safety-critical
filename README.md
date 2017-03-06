@@ -51,6 +51,8 @@ software:
 
 - [An Investigation of the Therac-25 Accidents](https://www.cs.nmt.edu/~cse382/reading/therac-25.pdf)
 
+- [Cluster European Space Agency Spacecraft Accident](https://en.wikipedia.org/wiki/Cluster_(spacecraft)#Launch_failure)
+
 ## Questions and Answers
 
 - What is the difference between mission-critical and safety-critical software?
