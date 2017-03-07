@@ -15,9 +15,21 @@ software:
 
 ## Standards
 
-- [DO-178B](https://en.wikipedia.org/wiki/DO-178B)
+- [DO-178C](https://en.wikipedia.org/wiki/DO-178C)
 
-> DO-178B, Software Considerations in Airborne Systems and Equipment Certification is a guideline dealing with the safety of safety-critical software used in certain airborne systems. Although technically a guideline, it is (or was) a de facto standard for developing avionics software systems. (Wikipedia)
+> DO-178C, Software Considerations in Airborne Systems and
+Equipment Certification is the primary document by which the certification
+authorities such as FAA, EASA and Transport Canada approve all commercial
+software-based aerospace systems. The document is published by
+RTCA, Incorporated, in a joint effort with EUROCAE, and replaces DO-178B.
+The new document is called DO-178C/ED-12C and was completed in November 2011 and
+approved by the RTCA in December 2011. It became available for sale and use
+in January 2012.
+
+The FAA approved AC 20-115C on 19 Jul 2013, making DO-178C a recognized
+"acceptable means, but not the only means, for showing compliance with the
+applicable airworthiness regulations for the software aspects of
+airborne systems and equipment certification." (Wikipedia)
 
 - [IEC 61508](https://en.wikipedia.org/wiki/IEC_61508)
 
