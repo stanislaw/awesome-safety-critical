@@ -26,7 +26,7 @@ The new document is called DO-178C/ED-12C and was completed in November 2011 and
 approved by the RTCA in December 2011. It became available for sale and use
 in January 2012.
 
-The FAA approved AC 20-115C on 19 Jul 2013, making DO-178C a recognized
+> The FAA approved AC 20-115C on 19 Jul 2013, making DO-178C a recognized
 "acceptable means, but not the only means, for showing compliance with the
 applicable airworthiness regulations for the software aspects of
 airborne systems and equipment certification." (Wikipedia)
