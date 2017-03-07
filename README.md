@@ -51,6 +51,8 @@ software:
 
 - [An Investigation of the Therac-25 Accidents](https://www.cs.nmt.edu/~cse382/reading/therac-25.pdf)
 
+- [ARIANE 5 Flight 501 Failure](http://sunnyday.mit.edu/accidents/Ariane5accidentreport.html)
+
 ## Questions and Answers
 
 - What is the difference between mission-critical and safety-critical software?
