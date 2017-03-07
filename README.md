@@ -9,7 +9,7 @@ presented here are not necessarily authoritative documents on topic.
 The starting point for me to create this resource was my interest in a solid
 software:
 
-[What kind of special training do engineers working on mission-critical software receive? [closed]](https://github.com/stanislaw/awesome-safety-critical/blob/master/What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Stack_Overflow.pdf) and [its followup on Reddit](https://www.reddit.com/r/programming/comments/5iohue/what_kind_of_special_training_do_engineers/).
+[What kind of special training do engineers working on mission-critical software receive? [closed]](What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Stack_Overflow.pdf) and [its followup on Reddit](https://www.reddit.com/r/programming/comments/5iohue/what_kind_of_special_training_do_engineers/).
 
 ## Standards
 
@@ -60,7 +60,7 @@ mission-critical and safety-critical software: [Military COTS-based systems: Not
 
 - What kind of special training do engineers working on mission-critical software receive?
 
-See [What kind of special training do engineers working on mission-critical software receive? [closed]](https://github.com/stanislaw/awesome-safety-critical/blob/master/What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Stack_Overflow.pdf) and [its followup on Reddit](https://www.reddit.com/r/programming/comments/5iohue/what_kind_of_special_training_do_engineers/). **In the Reddit thread there are 2 expanded answers**. The thread is also archived [here](What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Reddit.pdf).
+See [What kind of special training do engineers working on mission-critical software receive? [closed]](What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Stack_Overflow.pdf) and [its followup on Reddit](https://www.reddit.com/r/programming/comments/5iohue/what_kind_of_special_training_do_engineers/). **In the Reddit thread there are 2 expanded answers**. The thread is also archived [here](What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Reddit.pdf).
 
 - What are the differences between DO-178B and DO-178C?
 
