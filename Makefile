@@ -6,5 +6,5 @@ help: ## Show this help message.
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
 
 check_dead_links: ## Run awesome_bot to check for dead links in README.md
-	awesome_bot --allow-dupe --allow-redirect README.md
+	awesome_bot -t5 --allow-dupe --allow-redirect --allow-timeout README.md
 
