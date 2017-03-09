@@ -64,6 +64,8 @@ airborne systems and equipment certification." (Wikipedia)
 
 - [JOINT STRIKE FIGHTER AIR VEHICLE C++ CODING STANDARDS](http://www.stroustrup.com/JSF-AV-rules.pdf)
 
+- [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
+
 ## Papers
 
 - [Targeting  Safety-Related  Errors  During  Software Requirem.ents Analysis](https://trs.jpl.nasa.gov/bitstream/handle/2014/35179/93-0749.pdf)
