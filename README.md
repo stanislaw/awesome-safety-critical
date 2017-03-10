@@ -47,6 +47,10 @@ airborne systems and equipment certification." (Wikipedia)
 ## Coding guidelines
 
 - [MISRA guidelines](https://www.misra.org.uk/Publications/tabid/57/Default.aspx)
+  - (MISRA C:2012) Guidelines for the Use of the C Language in Critical Systems,
+  ISBN 978-1-906400-10-1 (paperback), ISBN 978-1-906400-11-8 (PDF), March 2013.
+  - (MISRA C++:2008) Guidelines for the Use of the C++ Language in Critical Systems, ISBN 978-906400-03-3 (paperback), ISBN 978-906400-04-0 (PDF), June 2008.
+  - See more papers there.
 
 - [The Power of Ten – Rules for Developing Safety Critical Code](http://spinroot.com/gerard/pdf/P10.pdf)
 
