@@ -94,6 +94,10 @@ airborne systems and equipment certification." (Wikipedia)
 
 ## Questions and Answers
 
+- Which languages are used for safety-critical software?
+
+See [Which languages are used for safety-critical software? [closed]](http://stackoverflow.com/questions/243387/which-languages-are-used-for-safety-critical-software).
+
 - What is the difference between mission-critical and safety-critical software?
 
 This article contains interesting section on what is the difference between
