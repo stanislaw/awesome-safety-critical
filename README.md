@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [awesome-safety-critical](#awesome-safety-critical)
+  - [Standards](#standards)
+  - [Coding guidelines](#coding-guidelines)
+  - [Articles](#articles)
+  - [Papers](#papers)
+  - [Incidents](#incidents)
+  - [Questions and Answers](#questions-and-answers)
+  - [Books](#books)
+  - [Other](#other)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # awesome-safety-critical
 
 [![Build Status](https://travis-ci.org/stanislaw/awesome-safety-critical.svg?branch=master)](https://travis-ci.org/stanislaw/awesome-safety-critical)
@@ -107,10 +123,6 @@ mission-critical and safety-critical software: [Military COTS-based systems: Not
 
 See [What kind of special training do engineers working on mission-critical software receive? [closed]](What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Stack_Overflow.pdf) and [its followup on Reddit](https://www.reddit.com/r/programming/comments/5iohue/what_kind_of_special_training_do_engineers/). **In the Reddit thread there are 2 expanded answers**. The thread is also archived [here](What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Reddit.pdf).
 
-## Other
-
-[Safety in Medical Device Software: Questions and Answers](http://electronicdesign.com/embedded/safety-medical-device-software-questions-and-answers)
-
 ## Books
 
 - [Safety Critical Systems Handbook: A Straight forward Guide to Functional Safety, IEC 61508 (2010 EDITION) and Related Standards, Including Process IEC 61511 and Machinery IEC 62061 and ISO 13849 1st Edition](https://www.amazon.com/Safety-Critical-Systems-Handbook-Functional/dp/0080967817)
@@ -122,3 +134,8 @@ See [What kind of special training do engineers working on mission-critical soft
 - [Building Parallel, Embedded, and Real-Time Applications with Ada](https://www.amazon.com/Building-Parallel-Embedded-Real-Time-Applications/dp/0521197163/ref=sr_1_1?s=books&ie=UTF8&qid=1489271672&sr=1-1&keywords=embedded+ada)
 
 - [Writing Solid Code](http://writingsolidcode.com/)
+
+## Interviews
+
+[Safety in Medical Device Software: Questions and Answers](http://electronicdesign.com/embedded/safety-medical-device-software-questions-and-answers)
+
