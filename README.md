@@ -1,19 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [awesome-safety-critical](#awesome-safety-critical)
-  - [Standards](#standards)
-  - [Coding guidelines](#coding-guidelines)
-  - [Articles](#articles)
-  - [Papers](#papers)
-  - [Incidents](#incidents)
-  - [Questions and Answers](#questions-and-answers)
-  - [Books](#books)
-  - [Other](#other)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # awesome-safety-critical
 
 [![Build Status](https://travis-ci.org/stanislaw/awesome-safety-critical.svg?branch=master)](https://travis-ci.org/stanislaw/awesome-safety-critical)
@@ -28,6 +12,21 @@ The starting point for me to create this resource was my interest in a solid
 software:
 
 [What kind of special training do engineers working on mission-critical software receive? [closed]](What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Stack_Overflow.pdf) and [its followup on Reddit](https://www.reddit.com/r/programming/comments/5iohue/what_kind_of_special_training_do_engineers/).
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Standards](#standards)
+- [Coding guidelines](#coding-guidelines)
+- [Articles](#articles)
+- [Papers](#papers)
+- [Incidents](#incidents)
+- [Questions and Answers](#questions-and-answers)
+- [Books](#books)
+- [Interviews](#interviews)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Standards
 
