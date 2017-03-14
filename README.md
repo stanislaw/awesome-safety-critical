@@ -87,6 +87,8 @@ airborne systems and equipment certification." (Wikipedia)
 
 ## Articles
 
+- [About Safety Critical Software](http://web.archive.org/web/20110209112635/http://www.aonix.com/safety_critical_overview.html)
+
 - [IEEE Spectrum-Why Software Fails](http://spectrum.ieee.org/computing/software/why-software-fails)
 
 - [IEEE Spectrum-Lessons From a Decade of IT Failures](http://spectrum.ieee.org/static/lessons-from-a-decade-of-it-failures)
