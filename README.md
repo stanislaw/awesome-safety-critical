@@ -30,6 +30,14 @@ software:
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Resources
+
+- [The International System Safety Society](http://www.system-safety.org/)
+
+> The International System Safety Society is a non-profit organization dedicated to supporting the Safety Professional in the application of Systems Engineering and Systems Management to the process of hazard, safety and risk analysis.  The Society is international in scope and draws members throughout the world.  It is affiliated with major corporations, educational institutions and other agencies in the United States and abroad.
+
+**This list has a number of great links from this resource.**
+
 ## Standards
 
 - [DO-178C](https://en.wikipedia.org/wiki/DO-178C)
