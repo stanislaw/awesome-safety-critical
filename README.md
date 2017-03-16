@@ -60,6 +60,29 @@ airborne systems and equipment certification." (Wikipedia)
 
 > The ISO 26262 Standard is prepared by the ISO Committee and is a derivative of the IEC 61508 standard listed above.  The committee members include the major vehicle manufacturers and suppliers.  It is expressly a safety standard, but includes details about Hazard Analysis and Risk Assessment and system design to detect faults and their potential failures.
 
+- [MIL-STD-882E, System Safety](http://www.system-safety.org/Documents/MIL-STD-882E.pdf)
+
+- [MIL-STD-1472F, Human Engineering](http://www.system-safety.org/Operations%20Manual/1472f.doc)
+
+- [NASA-STD-8719.13B, NASA Software Safety Standard](http://www.system-safety.org/Documents/NASA-STD-8719.13B.pdf)
+
+## Safety guidebooks
+
+- [NASA Software Safety Guidebook](http://www.system-safety.org/Documents/NASA-GB-8719.13.pdf)
+
+> NASA's Software Safety Guidebook (pdf file). The handbook complement to the
+Software Safety Standard.
+
+- [Software System Safety Handbook](http://www.system-safety.org/Documents/Software_System_Safety_Handbook.pdf)
+
+> From the Joint Services Computer Resources Management Group, US Navy, US Army,
+And US Air Force (pdf file)
+
+- [Air Force System Safety Handbook](http://www.system-safety.org/Documents/AF_System-Safety-HNDBK.pdf)
+
+> First chapter has an excellent introduction to system safety with a discussion
+of the evolution of the DoD Standard 882 (DOD Standard Practice for
+System Safety).
 
 ## Coding guidelines
 
