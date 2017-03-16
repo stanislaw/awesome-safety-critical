@@ -88,6 +88,8 @@ Software Safety Standard.
 > From the Joint Services Computer Resources Management Group, US Navy, US Army,
 And US Air Force (pdf file)
 
+- [Joint Software Systems Safety Engineering Handbook](http://www.system-safety.org/Documents/SOFTWARE_SYSTEM_SAFETY_HDBK_2010.pdf)
+
 - [Air Force System Safety Handbook](http://www.system-safety.org/Documents/AF_System-Safety-HNDBK.pdf)
 
 > First chapter has an excellent introduction to system safety with a discussion
