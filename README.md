@@ -130,6 +130,8 @@ System Safety).
 
 ## Papers
 
+- [Software Safety Standards: Evolution and Lessons Learned](http://paris.utdallas.edu/reu/document/01-Publications/04-Software-Safety-Standards-TSA.pdf)
+
 - [Making reliable distributed systems in the presence of software errors](http://erlang.org/download/armstrong_thesis_2003.pdf)
 
 - [Why Do Computers Stop and What Can Be Done About It?](http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf)
