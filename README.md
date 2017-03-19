@@ -20,7 +20,7 @@ presented here are not necessarily authoritative or latest documents on topic.
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Resources](#resources)
-- [Standards](#standards)
+- [Software safety standards](#software-safety-standards)
 - [Safety guidebooks](#safety-guidebooks)
 - [Coding guidelines](#coding-guidelines)
 - [Articles](#articles)
@@ -40,7 +40,7 @@ presented here are not necessarily authoritative or latest documents on topic.
 
 **This list has a number of great links from this resource.**
 
-## Standards
+## Software safety standards
 
 - [DO-178C](https://en.wikipedia.org/wiki/DO-178C)
 
@@ -148,18 +148,25 @@ System Safety).
 
 ## Questions and Answers
 
-- Which languages are used for safety-critical software?
+#### Which languages are used for safety-critical software?
 
 See [Which languages are used for safety-critical software? [closed]](http://stackoverflow.com/questions/243387/which-languages-are-used-for-safety-critical-software).
 
-- What is the difference between mission-critical and safety-critical software?
+#### What is the difference between mission-critical and safety-critical software?
 
 This article contains interesting section on what is the difference between
 mission-critical and safety-critical software: [Military COTS-based systems: Not necessarily right off the shelf](http://pdf.cloud.opensystemsmedia.com/advancedtca-systems.com/SBS.Jan04.pdf)
 
-- What kind of special training do engineers working on mission-critical software receive?
+#### What kind of special training do engineers working on mission-critical software receive?
 
 See [What kind of special training do engineers working on mission-critical software receive? [closed]](What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Stack_Overflow.pdf) and [its followup on Reddit](https://www.reddit.com/r/programming/comments/5iohue/what_kind_of_special_training_do_engineers/). **In the Reddit thread there are 2 expanded answers**. The thread is also archived [here](What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Reddit.pdf).
+
+#### What are the software safety standards?
+
+See the [Software Safety Standards](#software-safety-standards) here in this list.
+
+Also see on StackOverflow: [Coding for high reliability/availability/security - what standards do I read?](http://stackoverflow.com/questions/142722/coding-for-high-reliability-availability-security-what-standards-do-i-read)
+and [Software Safety Standards](http://stackoverflow.com/questions/565965/software-safety-standards?noredirect=1&lq=1)
 
 ## Books
 

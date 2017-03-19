@@ -8,3 +8,6 @@ help: ## Show this help message.
 check_dead_links: ## Run awesome_bot to check for dead links in README.md
 	awesome_bot -t5 --allow-dupe --allow-redirect --allow-timeout README.md
 
+toc: ## Generate table of contents for README
+	doctoc --maxlevel 3 README.md
+
