@@ -148,20 +148,20 @@ System Safety).
 
 ## Questions and Answers
 
-#### Which languages are used for safety-critical software?
+#### &mdash; Which languages are used for safety-critical software?
 
 See [Which languages are used for safety-critical software? [closed]](http://stackoverflow.com/questions/243387/which-languages-are-used-for-safety-critical-software).
 
-#### What is the difference between mission-critical and safety-critical software?
+#### &mdash; What is the difference between mission-critical and safety-critical software?
 
 This article contains interesting section on what is the difference between
 mission-critical and safety-critical software: [Military COTS-based systems: Not necessarily right off the shelf](http://pdf.cloud.opensystemsmedia.com/advancedtca-systems.com/SBS.Jan04.pdf)
 
-#### What kind of special training do engineers working on mission-critical software receive?
+#### &mdash; What kind of special training do engineers working on mission-critical software receive?
 
 See [What kind of special training do engineers working on mission-critical software receive? [closed]](What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Stack_Overflow.pdf) and [its followup on Reddit](https://www.reddit.com/r/programming/comments/5iohue/what_kind_of_special_training_do_engineers/). **In the Reddit thread there are 2 expanded answers**. The thread is also archived [here](What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Reddit.pdf).
 
-#### What are the software safety standards?
+#### &mdash; What are the software safety standards?
 
 See the [Software Safety Standards](#software-safety-standards) here in this list.
 
