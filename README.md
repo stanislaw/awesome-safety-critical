@@ -178,8 +178,7 @@ and [Software Safety Standards](http://stackoverflow.com/questions/565965/softwa
 
 #### &mdash; Does Rust have a chance in mission-critical software?
 
-[Does Rust have a chance in mission-critical software? (currently Ada and proven C niches)]
-(https://www.reddit.com/r/rust/comments/5iv5j7/does_rust_have_a_chance_in_missioncritical/?st=j0hrkiso&sh=3f225aa8)
+[Does Rust have a chance in mission-critical software? (currently Ada and proven C niches)](https://www.reddit.com/r/rust/comments/5iv5j7/does_rust_have_a_chance_in_missioncritical/?st=j0hrkiso&sh=3f225aa8)
 
 ## Books
 
