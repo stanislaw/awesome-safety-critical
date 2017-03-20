@@ -172,6 +172,15 @@ See the [Software Safety Standards](#software-safety-standards) here in this lis
 Also see on StackOverflow: [Coding for high reliability/availability/security - what standards do I read?](http://stackoverflow.com/questions/142722/coding-for-high-reliability-availability-security-what-standards-do-i-read)
 and [Software Safety Standards](http://stackoverflow.com/questions/565965/software-safety-standards?noredirect=1&lq=1)
 
+#### &mdash; Safety-critical software and optimising compilers?
+
+[Safety-critical software and optimising compilers](http://softwareengineering.stackexchange.com/questions/267277/safety-critical-software-and-optimising-compilers)
+
+#### &mdash; Does Rust have a chance in mission-critical software?
+
+[Does Rust have a chance in mission-critical software? (currently Ada and proven C niches)]
+(https://www.reddit.com/r/rust/comments/5iv5j7/does_rust_have_a_chance_in_missioncritical/?st=j0hrkiso&sh=3f225aa8)
+
 ## Books
 
 - [Safety Critical Systems Handbook: A Straight forward Guide to Functional Safety, IEC 61508 (2010 EDITION) and Related Standards, Including Process IEC 61511 and Machinery IEC 62061 and ISO 13849 1st Edition](https://www.amazon.com/Safety-Critical-Systems-Handbook-Functional/dp/0080967817)
