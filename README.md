@@ -118,6 +118,13 @@ System Safety).
 
 - [SEI CERT C Coding Standard](https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard)
 
+- [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/display/cplusplus)
+
+- SEI CERT C and C++ Coding Standards are now freely available in pdf
+format:
+[C++ Coding Standard](http://www.cert.org/downloads/secure-coding/assets/sei-cert-cpp-coding-standard-2016-v01.pdf),
+[C Coding Standard](http://www.sei.cmu.edu/downloads/sei-cert-c-coding-standard-2016-v01.pdf)
+
 - [JOINT STRIKE FIGHTER AIR VEHICLE C++ CODING STANDARDS](http://www.stroustrup.com/JSF-AV-rules.pdf)
 
 ## Articles
@@ -197,4 +204,3 @@ and [Software Safety Standards](http://stackoverflow.com/questions/565965/softwa
 ## Interviews
 
 [Safety in Medical Device Software: Questions and Answers](http://electronicdesign.com/embedded/safety-medical-device-software-questions-and-answers)
-
