@@ -34,6 +34,12 @@ presented here are not necessarily authoritative or latest documents on topic.
 
 ## Resources
 
+- [European Cooperation for Space Standardization](http://ecss.nl/)
+
+> The European Cooperation for Space Standardization is an initiative established to develop a coherent, single set of user-friendly standards for use in all European space activities.
+
+**This list has a number of links from this resource.**
+
 - [The International System Safety Society](http://www.system-safety.org/)
 
 > The International System Safety Society is a non-profit organization dedicated to supporting the Safety Professional in the application of Systems Engineering and Systems Management to the process of hazard, safety and risk analysis.  The Society is international in scope and draws members throughout the world.  It is affiliated with major corporations, educational institutions and other agencies in the United States and abroad.
@@ -76,7 +82,13 @@ airborne systems and equipment certification." (Wikipedia)
 
 - [NASA-STD-8719.13B, NASA Software Safety Standard](http://www.system-safety.org/Documents/NASA-STD-8719.13B.pdf)
 
+- [ECSS-E-ST-40C, Software](http://ecss.nl/standard/ecss-e-st-40c-software-general-requirements/)
+
+- [ECSS-Q-ST-80C Rev.1 – Software product assurance](http://ecss.nl/standard/ecss-q-st-80c-rev-1-software-product-assurance-15-february-2017/)
+
 ## Safety guidebooks
+
+- [ECSS-E-HB-40A – Software engineering handbook](http://ecss.nl/hbstms/ecss-e-hb-40a-software-engineering-handbook-11-december-2013/)
 
 - [NASA Software Safety Guidebook](http://www.system-safety.org/Documents/NASA-GB-8719.13.pdf)
 
