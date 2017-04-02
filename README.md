@@ -44,9 +44,13 @@ presented here are not necessarily authoritative or latest documents on topic.
 
 > The International System Safety Society is a non-profit organization dedicated to supporting the Safety Professional in the application of Systems Engineering and Systems Management to the process of hazard, safety and risk analysis.  The Society is international in scope and draws members throughout the world.  It is affiliated with major corporations, educational institutions and other agencies in the United States and abroad.
 
-**This list has a number of great links from this resource.**
+**This list has a number of links from this resource.**
 
 ## Software safety standards
+
+- [IEC 61508](https://en.wikipedia.org/wiki/IEC_61508)
+
+> IEC 61508 is an international standard published by the International Electrotechnical Commission of rules applied in industry. It is titled Functional Safety of Electrical/Electronic/Programmable Electronic Safety-related Systems (E/E/PE, or E/E/PES).
 
 - [DO-178C](https://en.wikipedia.org/wiki/DO-178C)
 
@@ -63,10 +67,6 @@ in January 2012.
 "acceptable means, but not the only means, for showing compliance with the
 applicable airworthiness regulations for the software aspects of
 airborne systems and equipment certification." (Wikipedia)
-
-- [IEC 61508](https://en.wikipedia.org/wiki/IEC_61508)
-
-> IEC 61508 is an international standard published by the International Electrotechnical Commission of rules applied in industry. It is titled Functional Safety of Electrical/Electronic/Programmable Electronic Safety-related Systems (E/E/PE, or E/E/PES).
 
 - [ARINC standards](https://en.wikipedia.org/wiki/ARINC#Standards)
 
