@@ -149,6 +149,15 @@ format:
 
 ## Papers
 
+- [White Paper on Approaches to Safety Engineering](http://sunnyday.mit.edu/caib/concepts.pdf)
+
+> This white paper lays out some foundational information about different
+approaches to safety: how various industries differ in their approaches to
+safety engineering, and a comparison of three general approaches to safety
+(system safety, industrial safety engineering, and reliability engineering).
+An attempt is made to lay out the properties of industries and systems that
+make one approach more appropriate than another.
+
 - [Software Safety Standards: Evolution and Lessons Learned](http://paris.utdallas.edu/reu/document/01-Publications/04-Software-Safety-Standards-TSA.pdf)
 
 - [An Overview of Software Safety Standards](https://www.osti.gov/scitech/servlets/purl/184397)
