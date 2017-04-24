@@ -178,7 +178,7 @@ make one approach more appropriate than another.
 
 - [ESA Schiaparelli Lander Crash](http://spacenews.com/esa-mars-lander-crash-caused-by-1-second-inertial-measurement-error/)
 
-- [A Case Study of Toyota Unintended Acceleration and Software Safety](https://users.ece.cmu.edu/~koopman/pubs/koopman14_toyota_ua_slides.pdf) and [NASA report on the Toyota Unintended Acceleration Issue](https://www.nhtsa.gov/staticfiles/nvs/pdf/NASA-UA_report.pdf)
+- [A Case Study of Toyota Unintended Acceleration and Software Safety](https://betterembsw.blogspot.de/2014/09/a-case-study-of-toyota-unintended.html) and [NASA report on the Toyota Unintended Acceleration Issue](https://www.nhtsa.gov/staticfiles/nvs/pdf/NASA-UA_report.pdf)
 
 ## Questions and Answers
 
