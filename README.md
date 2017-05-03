@@ -28,6 +28,7 @@ presented here are not necessarily authoritative or latest documents on topic.
 - [Incidents](#incidents)
 - [Questions and Answers](#questions-and-answers)
 - [Books](#books)
+- [Videos](#videos)
 - [Interviews](#interviews)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -223,6 +224,14 @@ and [Software Safety Standards](http://stackoverflow.com/questions/565965/softwa
 - [Building Parallel, Embedded, and Real-Time Applications with Ada](https://www.amazon.com/Building-Parallel-Embedded-Real-Time-Applications/dp/0521197163/ref=sr_1_1?s=books&ie=UTF8&qid=1489271672&sr=1-1&keywords=embedded+ada)
 
 - [Writing Solid Code](http://writingsolidcode.com/)
+
+## Videos
+
+[The Need for a Paradigm Shift in Safety and Cyber Security](https://www.youtube.com/watch?v=WBktiCyPLo4)
+
+> CREDC Seminar Series. Presented on November 7, 2016 by Nancy Leveson,
+Professor of Aeronautics and Astronautics and Engineering Systems, MIT.
+Cyber Resilient Energy Delivery Consortium (CREDC), http://cred-c.org
 
 ## Interviews
 
