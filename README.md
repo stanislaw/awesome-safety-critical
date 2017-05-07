@@ -30,6 +30,7 @@ presented here are not necessarily authoritative or latest documents on topic.
 - [Books](#books)
 - [Videos](#videos)
 - [Interviews](#interviews)
+- [Press](#press)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -236,3 +237,17 @@ Cyber Resilient Energy Delivery Consortium (CREDC), http://cred-c.org
 ## Interviews
 
 [Safety in Medical Device Software: Questions and Answers](http://electronicdesign.com/embedded/safety-medical-device-software-questions-and-answers)
+
+## Press
+
+[They Write the Right Stuff](https://www.fastcompany.com/28121/they-write-right-stuff)
+
+> This software is the work of 260 women and men based in an anonymous office
+building across the street from the Johnson Space Center in Clear Lake, Texas,
+southeast of Houston. They work for the “on-board shuttle group,” a branch of
+Lockheed Martin Corps space mission systems division, and their prowess is
+world renowned: the shuttle software group is one of just four outfits in
+the world to win the coveted Level 5 ranking of the federal governments
+Software Engineering Institute (SEI) a measure of the sophistication and
+reliability of the way they do their work. In fact, the SEI based it standards
+in part from watching the on-board shuttle group do its work.
