@@ -25,6 +25,7 @@ presented here are not necessarily authoritative or latest documents on topic.
 - [Coding guidelines](#coding-guidelines)
 - [Articles](#articles)
 - [Papers](#papers)
+- [Tutorials](#tutorials)
 - [Incidents](#incidents)
 - [Questions and Answers](#questions-and-answers)
 - [Books](#books)
@@ -118,7 +119,7 @@ System Safety).
   - (MISRA C++:2008) Guidelines for the Use of the C++ Language in Critical Systems, ISBN 978-906400-03-3 (paperback), ISBN 978-906400-04-0 (PDF), June 2008.
   - See more papers there.
 
-- [The Power of Ten – Rules for Developing Safety Critical Code](http://spinroot.com/gerard/pdf/P10.pdf)
+- [The Power of Ten – Rules for Developing Safety Critical Code](Backup/P10.pdf)
 
 > Jet Propulsion Laboratory – scientific institution making a lot of research and development for NASA. JPL have been developing software for most of unmanned missions in the field of deep space and other planets exploration. Their portfolio includes such famous missions as Curiosity Mars rover and Voyager probe which left solar system after 25 years of flight and still providing scientific information. High level of automatization and long duration of missions led to superior demands to software quality. As a result of JPL amazing experience a set of code guidelines was developed and published recently.
 
@@ -169,6 +170,14 @@ make one approach more appropriate than another.
 - [Why Do Computers Stop and What Can Be Done About It?](http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf)
 
 - [Targeting  Safety-Related  Errors  During  Software Requirem.ents Analysis](https://trs.jpl.nasa.gov/bitstream/handle/2014/35179/93-0749.pdf)
+
+## Tutorials
+
+- [A Practical Tutorial on Modified Condition/Decision Coverage](https://shemesh.larc.nasa.gov/fm/papers/Hayhurst-2001-tm210876-MCDC.pdf)
+
+> This tutorial provides a practical approach to assessing modified
+condition/decision coverage (MC/DC) for aviation software products that must
+comply with regulatory guidance for DO-178B level A software.
 
 ## Incidents
 
