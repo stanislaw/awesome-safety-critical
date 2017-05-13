@@ -25,6 +25,7 @@ presented here are not necessarily authoritative or latest documents on topic.
 - [Coding guidelines](#coding-guidelines)
 - [Articles](#articles)
 - [Papers](#papers)
+- [Tutorials](#tutorials)
 - [Incidents](#incidents)
 - [Questions and Answers](#questions-and-answers)
 - [Books](#books)
@@ -169,6 +170,14 @@ make one approach more appropriate than another.
 - [Why Do Computers Stop and What Can Be Done About It?](http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf)
 
 - [Targeting  Safety-Related  Errors  During  Software Requirem.ents Analysis](https://trs.jpl.nasa.gov/bitstream/handle/2014/35179/93-0749.pdf)
+
+## Tutorials
+
+- [A Practical Tutorial on Modified Condition/Decision Coverage](https://shemesh.larc.nasa.gov/fm/papers/Hayhurst-2001-tm210876-MCDC.pdf)
+
+> This tutorial provides a practical approach to assessing modified
+condition/decision coverage (MC/DC) for aviation software products that must
+comply with regulatory guidance for DO-178B level A software.
 
 ## Incidents
 
