@@ -19,6 +19,7 @@ presented here are not necessarily authoritative or latest documents on topic.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [Friendly Lists](#friendly-lists)
 - [Resources](#resources)
 - [Software safety standards](#software-safety-standards)
 - [Safety guidebooks](#safety-guidebooks)
@@ -34,6 +35,13 @@ presented here are not necessarily authoritative or latest documents on topic.
 - [Press](#press)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Friendly lists
+
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
+
+> A curated list of static analysis tools, linters and code quality checkers
+for various programming languages
 
 ## Resources
 
