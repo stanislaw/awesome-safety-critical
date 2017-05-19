@@ -303,5 +303,5 @@ This list's repository contains a backup of all content presented in the list.
 This is done to ensure availability of these resources in case if their original
 sources become unavailable. Every link always points to its original source
 unless it becomes unavailable in which case a resource from a backup is used
-or a link to the web.archive.org if possible.
+or a link to web.archive.org if possible.
 [awesome_bot](https://github.com/dkhamsing/awesome_bot) tool is used to check the dead links.
