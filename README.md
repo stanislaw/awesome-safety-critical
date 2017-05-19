@@ -34,6 +34,7 @@ presented here are not necessarily authoritative or latest documents on topic.
 - [Videos](#videos)
 - [Interviews](#interviews)
 - [Press](#press)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -279,3 +280,21 @@ the world to win the coveted Level 5 ranking of the federal governments
 Software Engineering Institute (SEI) a measure of the sophistication and
 reliability of the way they do their work. In fact, the SEI based it standards
 in part from watching the on-board shuttle group do its work.
+
+## License
+
+<p xmlns:dct="http://purl.org/dc/terms/">
+
+<a rel="license"
+   href="http://creativecommons.org/publicdomain/zero/1.0/">
+  <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+</a>
+<br />
+To the extent possible under law,
+<a rel="dct:publisher"
+   href="https://github.com/stanislaw/awesome-safety-critical">
+  <span property="dct:title">Stanislav Pankevich</span></a>
+has waived all copyright and related or neighboring rights to
+<span property="dct:title">awesome-safety-critical</span>.
+
+</p>
