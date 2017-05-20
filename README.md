@@ -290,7 +290,7 @@ in part from watching the on-board shuttle group do its work.
 <br />
 To the extent possible under law,
 <a rel="dct:publisher"
-   href="https://github.com/stanislaw/awesome-safety-critical">
+   href="https://github.com/stanislaw">
   <span property="dct:title">Stanislav Pankevich</span></a>
 has waived all copyright and related or neighboring rights to
 <span property="dct:title">awesome-safety-critical</span>.
