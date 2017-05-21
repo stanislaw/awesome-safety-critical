@@ -25,6 +25,7 @@ presented here are not necessarily authoritative or latest documents on topic.
 - [Safety guidebooks](#safety-guidebooks)
 - [Coding guidelines](#coding-guidelines)
 - [Topics](#topics)
+  - [Certification](#certification)
   - [MC/DC](#mcdc)
 - [Articles](#articles)
 - [Papers](#papers)
@@ -151,6 +152,12 @@ format:
 - [JOINT STRIKE FIGHTER AIR VEHICLE C++ CODING STANDARDS](http://www.stroustrup.com/JSF-AV-rules.pdf)
 
 ## Topics
+
+### Certification
+
+- [Introduction to Certification by Quentin Ochem, AdaCore](http://idl.univ-brest.fr/etr11/EXPOSES%20ETR%202011/mercredi%20AM/etr11-ochem.pptx)
+
+- [Certification Requirements for Safety-Critical Software](http://www.rtcmagazine.com/articles/view/100010)
 
 ### MC/DC
 
