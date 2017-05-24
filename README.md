@@ -26,6 +26,7 @@ presented here are not necessarily authoritative or latest documents on topic.
 - [Coding guidelines](#coding-guidelines)
 - [Topics](#topics)
   - [Certification](#certification)
+  - [Formal verification](#formal-verification)
   - [MC/DC](#mcdc)
 - [Articles](#articles)
 - [Papers](#papers)
@@ -158,6 +159,10 @@ format:
 - [Introduction to Certification by Quentin Ochem, AdaCore](http://idl.univ-brest.fr/etr11/EXPOSES%20ETR%202011/mercredi%20AM/etr11-ochem.pptx)
 
 - [Certification Requirements for Safety-Critical Software](http://www.rtcmagazine.com/articles/view/100010)
+
+### Formal verification
+
+- [Verified Squared: Does Critical Software Deserve Verified Tools?](http://gallium.inria.fr/~xleroy/publi/popl11-invited-talk.pdf)
 
 ### MC/DC
 
