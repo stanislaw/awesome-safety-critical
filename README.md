@@ -61,6 +61,10 @@ for various programming languages
 
 **This list has a number of links from this resource.**
 
+- [NASA Langley Formal Methods Research Program](https://shemesh.larc.nasa.gov/fm/index.html)
+
+> The NASA Langley's Formal Methods Research Program of the NASA Langley Safety-Critical Avionics Systems Branch develops formal methods technology for the development of mission-critical and safety-critical digital systems of interest to NASA.
+
 ## Software safety standards
 
 - [IEC 61508](https://en.wikipedia.org/wiki/IEC_61508)
