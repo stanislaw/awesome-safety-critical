@@ -127,6 +127,8 @@ And US Air Force (pdf file)
 of the evolution of the DoD Standard 882 (DOD Standard Practice for
 System Safety).
 
+- [European Space Agency - Technology Readiness Levels Handbook for Space Applications](https://artes.esa.int/sites/default/files/TRL_Handbook.pdf)
+
 ## Coding guidelines
 
 - [MISRA guidelines](https://www.misra.org.uk/Publications/tabid/57/Default.aspx)
@@ -163,6 +165,10 @@ format:
 - [Introduction to Certification by Quentin Ochem, AdaCore](http://idl.univ-brest.fr/etr11/EXPOSES%20ETR%202011/mercredi%20AM/etr11-ochem.pptx)
 
 - [Certification Requirements for Safety-Critical Software](http://www.rtcmagazine.com/articles/view/100010)
+
+- [Technology Readiness Level (TRL)](http://sci.esa.int/sci-ft/50124-technology-readiness-level/)
+
+> Instruments and spacecraft sub-systems technical maturity with respect to a specific space application are classified according to a "Technology Readiness Level" (TRL) on a scale of 1 to 9. ESA is utilising the ISO standard 16290 Space systems – Definition of the Technology Readiness Levels (TRLs) and their criteria assessment.
 
 ### Formal verification
 
