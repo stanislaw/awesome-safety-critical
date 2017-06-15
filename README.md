@@ -291,6 +291,10 @@ and [Software Safety Standards](http://stackoverflow.com/questions/565965/softwa
 Professor of Aeronautics and Astronautics and Engineering Systems, MIT.
 Cyber Resilient Energy Delivery Consortium (CREDC), http://cred-c.org
 
+[2017 EuroLLVM Developers’ Meeting: M. Beemster "Using LLVM for Safety-Critical Applications"](https://www.youtube.com/watch?v=pmy1Ttieh3I) and [Using LLVM for Safety-Critical Applications. Interview with Marcel Beemster (Euro LLVM 2017)](https://www.youtube.com/watch?v=zSnfGp9HO7g).
+
+> Marcel Beemster, Solid Sands B.V. http://solidsands.nl/, http://www.LLVM.org/devmtg/2017-03/
+
 ## Interviews
 
 [Safety in Medical Device Software: Questions and Answers](http://electronicdesign.com/embedded/safety-medical-device-software-questions-and-answers)
