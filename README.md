@@ -176,6 +176,12 @@ format:
 
 ### MC/DC
 
+- [A practical approach to Modified Condition/Decision Coverage](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20040086014.pdf)
+
+> This paper provides a practical 5-step approach for assessing MC/DC for
+aviation software products, and an analysis of some types of errors expected
+to be caught when MC/DC is achieved.
+
 - [A Practical Tutorial on Modified Condition/Decision Coverage](https://shemesh.larc.nasa.gov/fm/papers/Hayhurst-2001-tm210876-MCDC.pdf)
 
 > This tutorial provides a practical approach to assessing modified
