@@ -293,6 +293,12 @@ and [Software Safety Standards](http://stackoverflow.com/questions/565965/softwa
 Professor of Aeronautics and Astronautics and Engineering Systems, MIT.
 Cyber Resilient Energy Delivery Consortium (CREDC), http://cred-c.org
 
+[Velocity 2012: Richard Cook, "How Complex Systems Fail"](https://www.youtube.com/watch?v=2S0k12uZR14)
+
+> Dr. Richard Cook is the Professor of Healthcare Systems Safety and Chairman of the Department of Patient Safety at the Kungliga Techniska Hogskolan (the Royal Institute of Technology) in Stockholm, Sweden. He is a practicing physician, researcher and educator.
+
+See also paper "How Complex Systems Fail".
+
 [2017 EuroLLVM Developers’ Meeting: M. Beemster "Using LLVM for Safety-Critical Applications"](https://www.youtube.com/watch?v=pmy1Ttieh3I) and [Using LLVM for Safety-Critical Applications. Interview with Marcel Beemster (Euro LLVM 2017)](https://www.youtube.com/watch?v=zSnfGp9HO7g).
 
 > Marcel Beemster, Solid Sands B.V. http://solidsands.nl/, http://www.LLVM.org/devmtg/2017-03/
