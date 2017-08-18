@@ -114,6 +114,8 @@ airborne systems and equipment certification." (Wikipedia)
 > NASA's Software Safety Guidebook (pdf file). The handbook complement to the
 Software Safety Standard.
 
+- [NASA Systems Engineering Handbook](https://www.nasa.gov/connect/ebooks/nasa-systems-engineering-handbook)
+
 - [Software System Safety Handbook](http://www.system-safety.org/Documents/Software_System_Safety_Handbook.pdf)
 
 > From the Joint Services Computer Resources Management Group, US Navy, US Army,
