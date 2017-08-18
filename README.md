@@ -166,9 +166,13 @@ format:
 
 - [Certification Requirements for Safety-Critical Software](http://www.rtcmagazine.com/articles/view/100010)
 
-- [Technology Readiness Level (TRL)](http://sci.esa.int/sci-ft/50124-technology-readiness-level/)
+- [Technology Readiness Level, ESA](http://sci.esa.int/sci-ft/50124-technology-readiness-level/), [Technology Readiness Level, NASA](https://www.nasa.gov/directorates/heo/scan/engineering/technology/txt_accordion1.html)
 
-> Instruments and spacecraft sub-systems technical maturity with respect to a specific space application are classified according to a "Technology Readiness Level" (TRL) on a scale of 1 to 9. ESA is utilising the ISO standard 16290 Space systems – Definition of the Technology Readiness Levels (TRLs) and their criteria assessment.
+> Technology Readiness Levels (TRL) are a type of measurement system used to
+assess the maturity level of a particular technology. Each technology project is
+evaluated against the parameters for each technology level and is then assigned
+a TRL rating based on the projects progress. There are nine technology readiness
+levels. TRL 1 is the lowest and TRL 9 is the highest.
 
 ### Formal verification
 
