@@ -47,6 +47,10 @@ presented here are not necessarily authoritative or latest documents on topic.
 > A curated list of static analysis tools, linters and code quality checkers
 for various programming languages
 
+- [free-software-testing-books](https://github.com/ligurio/free-software-testing-books)
+
+> List of free software testing resources
+
 ## Resources
 
 - [European Cooperation for Space Standardization](http://ecss.nl/)
