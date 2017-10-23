@@ -10,8 +10,8 @@ software:
 
 [What kind of special training do engineers working on mission-critical software receive? [closed]](What_kind_of_special_training_do_engineer_working_on_mission-critical_software_receive%3F_-_Stack_Overflow.pdf) and [its followup on Reddit](https://www.reddit.com/r/programming/comments/5iohue/what_kind_of_special_training_do_engineers/).
 
-**Disclaimer:** I don't work on safety-critical software so the resources
-presented here are not necessarily authoritative or latest documents on topic.
+**Disclaimer:** I don't work on safety-critical software. Resources presented
+here are not necessarily authoritative or latest documents on topic.
 
 ## Contents
 
