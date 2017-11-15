@@ -30,7 +30,7 @@ here are not necessarily authoritative or latest documents on topic.
   - [MC/DC](#mcdc)
 - [Articles](#articles)
 - [Papers](#papers)
-- [Incidents](#incidents)
+- [Accidents](#accidents)
 - [Questions and Answers](#questions-and-answers)
 - [Books](#books)
 - [Videos](#videos)
@@ -239,7 +239,7 @@ make one approach more appropriate than another.
 
 - [The Qualification of Software Development Tools From the DO-178B Certification Perspective](http://static1.1.sqspcdn.com/static/f/702523/9272430/1288904989327/200604-Kornecki.pdf?token=uZElb5dHWyIfQeLIZnOpSN5BG%2FE%3D)
 
-## Incidents
+## Accidents
 
 - [Mars Climate Orbiter Mishap Investigation](http://sunnyday.mit.edu/accidents/MCO_report.pdf)
 
