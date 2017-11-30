@@ -239,6 +239,8 @@ make one approach more appropriate than another.
 
 - [The Qualification of Software Development Tools From the DO-178B Certification Perspective](http://static1.1.sqspcdn.com/static/f/702523/9272430/1288904989327/200604-Kornecki.pdf?token=uZElb5dHWyIfQeLIZnOpSN5BG%2FE%3D)
 
+- [The Role of Software in Spacecraft Accidents](http://sunnyday.mit.edu/papers/jsr.pdf)
+
 ## Accidents
 
 - [Mars Climate Orbiter Mishap Investigation](http://sunnyday.mit.edu/accidents/MCO_report.pdf)
