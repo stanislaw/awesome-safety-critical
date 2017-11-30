@@ -295,6 +295,10 @@ and [Software Safety Standards](http://stackoverflow.com/questions/565965/softwa
 
 - [Writing Solid Code](http://writingsolidcode.com/)
 
+- [Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)](https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213)
+
+> While not necessarily focused on safety-critical software, the book touches extensively on the design of high availability complex systems where failures of any size are very expensive for the owner.
+
 ## Videos
 
 [The Need for a Paradigm Shift in Safety and Cyber Security](https://www.youtube.com/watch?v=WBktiCyPLo4)
