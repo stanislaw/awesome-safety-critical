@@ -170,7 +170,7 @@ format:
 
 - [Introduction to Certification by Quentin Ochem, AdaCore](http://idl.univ-brest.fr/etr11/EXPOSES%20ETR%202011/mercredi%20AM/etr11-ochem.pptx)
 
-- [Certification Requirements for Safety-Critical Software](http://www.rtcmagazine.com/articles/view/100010)
+- [Certification Requirements for Safety-Critical Software](Backup/Certification Requirements for Safety-Critical Software | RTC Magazine.pdf)
 
 - [Technology Readiness Level, ESA](http://sci.esa.int/sci-ft/50124-technology-readiness-level/), [Technology Readiness Level, NASA](https://www.nasa.gov/directorates/heo/scan/engineering/technology/txt_accordion1.html)
 
