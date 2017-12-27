@@ -145,7 +145,7 @@ System Safety).
 
 - [The Power of Ten – Rules for Developing Safety Critical Code](Backup/P10.pdf)
 
-- [JPL Institutional Coding Standard for the C Programming Language](http://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_C.pdf)
+- [JPL Institutional Coding Standard for the C Programming Language](https://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_C.pdf)
 
 - [NASA C STYLE GUIDE](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf)
 
@@ -299,19 +299,21 @@ and [Software Safety Standards](http://stackoverflow.com/questions/565965/softwa
 
 ## Videos
 
-[The Need for a Paradigm Shift in Safety and Cyber Security](https://www.youtube.com/watch?v=WBktiCyPLo4)
+- [Embedded System Safety Lecture Video Series](https://betterembsw.blogspot.de/2017/12/embedded-system-safety-lecture-video.html)
+
+- [The Need for a Paradigm Shift in Safety and Cyber Security](https://www.youtube.com/watch?v=WBktiCyPLo4)
 
 > CREDC Seminar Series. Presented on November 7, 2016 by Nancy Leveson,
 Professor of Aeronautics and Astronautics and Engineering Systems, MIT.
 Cyber Resilient Energy Delivery Consortium (CREDC), http://cred-c.org
 
-[Velocity 2012: Richard Cook, "How Complex Systems Fail"](https://www.youtube.com/watch?v=2S0k12uZR14)
+- [Velocity 2012: Richard Cook, "How Complex Systems Fail"](https://www.youtube.com/watch?v=2S0k12uZR14)
 
 > Dr. Richard Cook is the Professor of Healthcare Systems Safety and Chairman of the Department of Patient Safety at the Kungliga Techniska Hogskolan (the Royal Institute of Technology) in Stockholm, Sweden. He is a practicing physician, researcher and educator.
 
 See also paper "How Complex Systems Fail".
 
-[2017 EuroLLVM Developers’ Meeting: M. Beemster "Using LLVM for Safety-Critical Applications"](https://www.youtube.com/watch?v=pmy1Ttieh3I) and [Using LLVM for Safety-Critical Applications. Interview with Marcel Beemster (Euro LLVM 2017)](https://www.youtube.com/watch?v=zSnfGp9HO7g).
+- [2017 EuroLLVM Developers’ Meeting: M. Beemster "Using LLVM for Safety-Critical Applications"](https://www.youtube.com/watch?v=pmy1Ttieh3I) and [Using LLVM for Safety-Critical Applications. Interview with Marcel Beemster (Euro LLVM 2017)](https://www.youtube.com/watch?v=zSnfGp9HO7g).
 
 > Marcel Beemster, Solid Sands B.V. http://solidsands.nl/, http://www.LLVM.org/devmtg/2017-03/
 
