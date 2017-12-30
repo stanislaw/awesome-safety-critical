@@ -42,14 +42,14 @@ here are not necessarily authoritative or latest documents on topic.
 
 ## Friendly lists
 
+- [awesome-software-quality](https://github.com/ligurio/awesome-software-quality)
+
+> List of free software testing and verification resources
+
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
 
 > A curated list of static analysis tools, linters and code quality checkers
 for various programming languages
-
-- [free-software-testing-books](https://github.com/ligurio/free-software-testing-books)
-
-> List of free software testing resources
 
 ## Resources
 
