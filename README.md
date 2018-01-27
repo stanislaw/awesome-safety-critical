@@ -46,6 +46,10 @@ here are not necessarily authoritative or latest documents on topic.
 
 > List of free software testing and verification resources
 
+- [awesome-provable](https://github.com/awesomo4000/awesome-provable)
+
+> A curated set of links to formal methods involving provable code.
+
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
 
 > A curated list of static analysis tools, linters and code quality checkers
