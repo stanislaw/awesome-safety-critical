@@ -323,9 +323,9 @@ See also paper "How Complex Systems Fail".
 
 - Formal Method for Avionics Software Verification
   - [Formal Method for Avionics Software Verification pt1 (Hervé Delseny)](https://www.youtube.com/watch?v=tRtK4xOK-8o)
-  - [Formal Method for Avionics Software Verification pt1 (Hervé Delseny)](https://www.youtube.com/watch?v=BVI5J1GAQ30)
-  - [Formal Method for Avionics Software Verification pt1 (Hervé Delseny)](https://www.youtube.com/watch?v=U3G1ZOoqg78)
-  - [Formal Method for Avionics Software Verification pt1 (Hervé Delseny)](https://www.youtube.com/watch?v=WtlqS-JOHrA)
+  - [Formal Method for Avionics Software Verification pt2 (Hervé Delseny)](https://www.youtube.com/watch?v=BVI5J1GAQ30)
+  - [Formal Method for Avionics Software Verification pt3 (Hervé Delseny)](https://www.youtube.com/watch?v=U3G1ZOoqg78)
+  - [Formal Method for Avionics Software Verification pt4 (Hervé Delseny)](https://www.youtube.com/watch?v=WtlqS-JOHrA)
 
 > This talk will give examples of Airbus use of Formal Methods to verify
 avionics software, and summarises the integration of Formal Methods in the
