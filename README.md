@@ -321,6 +321,20 @@ See also paper "How Complex Systems Fail".
 
 > Marcel Beemster, Solid Sands B.V. http://solidsands.nl/, http://www.LLVM.org/devmtg/2017-03/
 
+- Formal Method for Avionics Software Verification
+  - [Formal Method for Avionics Software Verification pt1 (Hervé Delseny)](https://www.youtube.com/watch?v=tRtK4xOK-8o)
+  - [Formal Method for Avionics Software Verification pt1 (Hervé Delseny)](https://www.youtube.com/watch?v=BVI5J1GAQ30)
+  - [Formal Method for Avionics Software Verification pt1 (Hervé Delseny)](https://www.youtube.com/watch?v=U3G1ZOoqg78)
+  - [Formal Method for Avionics Software Verification pt1 (Hervé Delseny)](https://www.youtube.com/watch?v=WtlqS-JOHrA)
+
+> This talk will give examples of Airbus use of Formal Methods to verify
+avionics software, and summarises the integration of Formal Methods in the
+upcoming ED-12/DO-178 issue C. Firstly, examples of verification based on
+theorem proving or abstract interpretation will show how Airbus has already
+taken advantage of the use of Formal Methods to verify avionics software.
+Secondly, we will show how Formal Method for verification has been introduced
+in the upcoming issue C of ED-12/DO-178.
+
 ## Interviews
 
 [Safety in Medical Device Software: Questions and Answers](http://electronicdesign.com/embedded/safety-medical-device-software-questions-and-answers)
