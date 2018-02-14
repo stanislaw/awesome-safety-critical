@@ -50,6 +50,10 @@ here are not necessarily authoritative or latest documents on topic.
 
 > A curated set of links to formal methods involving provable code.
 
+- [practical-fm](https://github.com/ligurio/practical-fm)
+
+> A List of companies that use Formal methods in Software engineering
+
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
 
 > A curated list of static analysis tools, linters and code quality checkers
