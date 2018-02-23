@@ -339,6 +339,8 @@ taken advantage of the use of Formal Methods to verify avionics software.
 Secondly, we will show how Formal Method for verification has been introduced
 in the upcoming issue C of ED-12/DO-178.
 
+- [Programming Languages for High-Assurance Vehicles](https://www.youtube.com/watch?v=3iFFYKM3CTM&feature=youtu.be)
+
 ## Interviews
 
 [Safety in Medical Device Software: Questions and Answers](http://electronicdesign.com/embedded/safety-medical-device-software-questions-and-answers)
