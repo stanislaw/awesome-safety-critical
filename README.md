@@ -253,6 +253,8 @@ make one approach more appropriate than another.
 
 - [Mars Climate Orbiter Mishap Investigation](http://sunnyday.mit.edu/accidents/MCO_report.pdf)
 
+- [Report on the Loss of the Mars Polar Lander and Deep Space 2 Missions](https://spaceflight.nasa.gov/spacenews/releases/2000/mpl/mpl_report_1.pdf)
+
 - [An Investigation of the Therac-25 Accidents](https://www.cs.nmt.edu/~cse382/reading/therac-25.pdf)
 
 - [ESA ARIANE 5 Flight 501 Failure](http://sunnyday.mit.edu/accidents/Ariane5accidentreport.html)
