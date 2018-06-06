@@ -259,7 +259,7 @@ make one approach more appropriate than another.
 
 - [ESA ARIANE 5 Flight 501 Failure](http://sunnyday.mit.edu/accidents/Ariane5accidentreport.html)
 
-- [ESA Schiaparelli Lander Crash](http://spacenews.com/esa-mars-lander-crash-caused-by-1-second-inertial-measurement-error/)
+- [ExoMars 2016 - Schiaparelli Anomaly Inquiry (PDF at the bottom)](http://exploration.esa.int/mars/59176-exomars-2016-schiaparelli-anomaly-inquiry/), [ESA Schiaparelli Lander Crash](http://spacenews.com/esa-mars-lander-crash-caused-by-1-second-inertial-measurement-error/)
 
 - [A Case Study of Toyota Unintended Acceleration and Software Safety](https://betterembsw.blogspot.de/2014/09/a-case-study-of-toyota-unintended.html) and [NASA report on the Toyota Unintended Acceleration Issue](https://www.nhtsa.gov/staticfiles/nvs/pdf/NASA-UA_report.pdf)
 
