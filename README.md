@@ -248,6 +248,7 @@ make one approach more appropriate than another.
 - [The Qualification of Software Development Tools From the DO-178B Certification Perspective](http://static1.1.sqspcdn.com/static/f/702523/9272430/1288904989327/200604-Kornecki.pdf?token=uZElb5dHWyIfQeLIZnOpSN5BG%2FE%3D)
 
 - [The Role of Software in Spacecraft Accidents](http://sunnyday.mit.edu/papers/jsr.pdf)
+- [An Assessment of Space Shuttle Flight Software Development Processes](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19930019745.pdf)
 
 ## Accidents
 
