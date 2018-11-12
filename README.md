@@ -254,6 +254,10 @@ make one approach more appropriate than another.
 
 - [An Assessment of Space Shuttle Flight Software Development Processes](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19930019745.pdf)
 
+- [Licensing of safety critical software for nuclear reactors (2018)](https://www.bfe.bund.de/SharedDocs/Downloads/BfE/EN/reports/kt/Report-Software.pdf?__blob=publicationFile&v=2)
+
+> Common position of international nuclear regulators and authorised technical support organisations
+
 ## Accidents
 
 - [Mars Climate Orbiter Mishap Investigation](http://sunnyday.mit.edu/accidents/MCO_report.pdf)
