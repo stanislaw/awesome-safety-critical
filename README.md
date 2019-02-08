@@ -356,6 +356,8 @@ in the upcoming issue C of ED-12/DO-178.
 
 - [Programming Languages for High-Assurance Vehicles](https://www.youtube.com/watch?v=3iFFYKM3CTM&feature=youtu.be)
 
+- [Mars Code - Gerard Holzmann, JPL Laboratory for Reliable Software (2012)](https://www.usenix.org/conference/hotdep12/workshop-program/presentation/holzmann)
+
 ## Interviews
 
 [Safety in Medical Device Software: Questions and Answers](http://electronicdesign.com/embedded/safety-medical-device-software-questions-and-answers)
