@@ -87,22 +87,29 @@ for various programming languages
   Safety-related Systems (E/E/PE, or E/E/PES).
   - [ISO 26262](https://en.wikipedia.org/wiki/ISO_26262)
   > The ISO 26262 Standard is prepared by the ISO Committee and is a derivative of the IEC 61508 standard listed above.  The committee members include the major vehicle manufacturers and suppliers.  It is expressly a safety standard, but includes details about Hazard Analysis and Risk Assessment and system design to detect faults and their potential failures.
+  - IEC 62279
+  > IEC 62279 provides a specific interpretation of IEC 61508 for railway applications. It is intended to cover the development of software for railway control and protection including communications, signaling and processing systems.
+  - IEC 61513
+  > IEC 61513 provides requirements and recommendations for the instrumentation
+  and control for systems important to safety of nuclear power plants. It
+  indicates the general requirements for systems that contain conventional
+  hardwired equipment, computer-based equipment or a combination of both types of
+  equipment.
 
 - [DO-178C](https://en.wikipedia.org/wiki/DO-178C)
+  > DO-178C, Software Considerations in Airborne Systems and
+  Equipment Certification is the primary document by which the certification
+  authorities such as FAA, EASA and Transport Canada approve all commercial
+  software-based aerospace systems. The document is published by
+  RTCA, Incorporated, in a joint effort with EUROCAE, and replaces DO-178B.
+  The new document is called DO-178C/ED-12C and was completed in November 2011
+  and approved by the RTCA in December 2011. It became available for sale and
+  use in January 2012.
 
-> DO-178C, Software Considerations in Airborne Systems and
-Equipment Certification is the primary document by which the certification
-authorities such as FAA, EASA and Transport Canada approve all commercial
-software-based aerospace systems. The document is published by
-RTCA, Incorporated, in a joint effort with EUROCAE, and replaces DO-178B.
-The new document is called DO-178C/ED-12C and was completed in November 2011 and
-approved by the RTCA in December 2011. It became available for sale and use
-in January 2012.
-
-> The FAA approved AC 20-115C on 19 Jul 2013, making DO-178C a recognized
-"acceptable means, but not the only means, for showing compliance with the
-applicable airworthiness regulations for the software aspects of
-airborne systems and equipment certification." (Wikipedia)
+  > The FAA approved AC 20-115C on 19 Jul 2013, making DO-178C a recognized
+  "acceptable means, but not the only means, for showing compliance with the
+  applicable airworthiness regulations for the software aspects of
+  airborne systems and equipment certification." (Wikipedia)
 
 - [ARINC standards](https://en.wikipedia.org/wiki/ARINC#Standards)
   > The ARINC Standards are prepared by the Airlines Electronic Engineering Committee (AEEC) where Rockwell Collins and other aviation suppliers serve as a contributor in support of their airline customer base. (Wikipedia)
