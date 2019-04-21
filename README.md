@@ -164,7 +164,7 @@ System Safety).
 
 - [JPL Institutional Coding Standard for the C Programming Language](https://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_C.pdf)
 
-- [NASA C STYLE GUIDE](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf)
+- [NASA C STYLE GUIDE](Backup/nasa-c-style.pdf)
 
 - [C++ Coding Standards and Style Guide](https://ntrs.nasa.gov/search.jsp?R=20080039927)
 
