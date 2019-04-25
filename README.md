@@ -137,6 +137,9 @@ Software Safety Standard.
 
 - [NASA Systems Engineering Handbook](https://www.nasa.gov/connect/ebooks/nasa-systems-engineering-handbook)
 
+- [NASA Fault Management Handbook](https://www.nasa.gov/pdf/636372main_NASA-HDBK-1002_Draft.pdf)
+  - [The Development of NASA’s Fault Management Handbook (Slides)](https://indico.esa.int/event/62/contributions/2777/attachments/2297/2653/1125_-_the-development-of-nasas-fault-management-handbook_Presentation.pdf)
+
 - [Software System Safety Handbook](http://www.system-safety.org/Documents/Software_System_Safety_Handbook.pdf)
 
 > From the Joint Services Computer Resources Management Group, US Navy, US Army,
