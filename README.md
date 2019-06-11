@@ -163,6 +163,8 @@ System Safety).
   - (MISRA C++:2008) Guidelines for the Use of the C++ Language in Critical Systems, ISBN 978-906400-03-3 (paperback), ISBN 978-906400-04-0 (PDF), June 2008.
   - See more papers there.
 
+- [Guidelines for the use of the C++14 language in critical and safety-related systems](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-03/AUTOSAR_RS_CPP14Guidelines.pdf)
+
 - [The Power of Ten – Rules for Developing Safety Critical Code](Backup/P10.pdf)
 
 - [JPL Institutional Coding Standard for the C Programming Language](https://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_C.pdf)
