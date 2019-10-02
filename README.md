@@ -43,6 +43,10 @@ latest documents on the topic.
 
 ## Friendly lists
 
+- [resilience-engineering](https://github.com/lorin/resilience-engineering)
+
+> Resilience engineering papers http://resiliencepapers.club
+
 - [awesome-software-quality](https://github.com/ligurio/awesome-software-quality)
 
 > List of free software testing and verification resources
