@@ -275,6 +275,12 @@ make one approach more appropriate than another.
 
 > Common position of international nuclear regulators and authorised technical support organisations
 
+- [Assessment of Safety Standards for Automotive Electronic Control Systems](https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/812285_electronicsreliabilityreport.pdf)
+
+> Van Eikema Hommes, Q. D. (2016, June). Assessment of safety standards for
+automotive electronic control systems. (Report No. DOT HS 812 285).
+Washington, DC: National Highway Traffic Safety Administration.
+
 ## Accidents
 
 - [Failure Knowledge Database](http://www.shippai.org/fkd/en/index.html)
