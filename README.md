@@ -343,6 +343,8 @@ and [Software Safety Standards](http://stackoverflow.com/questions/565965/softwa
 
 - [Writing Solid Code](http://writingsolidcode.com/)
 
+- [SafeScrum® – Agile Development of Safety-Critical Software](https://www.springer.com/gp/book/9783319993331)
+
 ## Videos
 
 - [Embedded System Safety Lecture Video Series](https://betterembsw.blogspot.de/2017/12/embedded-system-safety-lecture-video.html)
