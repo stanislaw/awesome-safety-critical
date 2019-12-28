@@ -192,7 +192,8 @@ format:
 [C++ Coding Standard](http://www.cert.org/downloads/secure-coding/assets/sei-cert-cpp-coding-standard-2016-v01.pdf),
 [C Coding Standard](http://www.sei.cmu.edu/downloads/sei-cert-c-coding-standard-2016-v01.pdf)
 
-- [JOINT STRIKE FIGHTER AIR VEHICLE C++ CODING STANDARDS](http://www.stroustrup.com/JSF-AV-rules.pdf)
+- [JOINT STRIKE FIGHTER AIR VEHICLE C++ CODING STANDARDS](http://www.stroustrup.com/JSF-AV-rules.pdf), also video:
+[CppCon2014: Bill Emshoff "Using C++ on Mission and Safety Critical Platforms"](CppCon2014: Bill Emshoff "Using C++ on Mission and Safety Critical Platforms")
 
 ## Topics
 
