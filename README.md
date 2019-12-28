@@ -22,7 +22,7 @@ latest documents on the topic.
 - [Friendly lists](#friendly-lists)
 - [Resources](#resources)
 - [Software safety standards](#software-safety-standards)
-- [Safety guidebooks](#safety-guidebooks)
+- [Safety handbooks](#safety-handbooks)
 - [Coding guidelines](#coding-guidelines)
 - [Topics](#topics)
   - [Certification](#certification)
@@ -130,7 +130,7 @@ for various programming languages
 
 - [ECSS-Q-ST-80C Rev.1 – Software product assurance](http://ecss.nl/standard/ecss-q-st-80c-rev-1-software-product-assurance-15-february-2017/)
 
-## Safety guidebooks
+## Safety handbooks
 
 - [ECSS-E-HB-40A – Software engineering handbook](http://ecss.nl/hbstms/ecss-e-hb-40a-software-engineering-handbook-11-december-2013/)
 
@@ -143,6 +143,8 @@ Software Safety Standard.
 
 - [NASA Fault Management Handbook](https://www.nasa.gov/pdf/636372main_NASA-HDBK-1002_Draft.pdf)
   - [The Development of NASA’s Fault Management Handbook (Slides)](https://indico.esa.int/event/62/contributions/2777/attachments/2297/2653/1125_-_the-development-of-nasas-fault-management-handbook_Presentation.pdf)
+
+- [NASA Safety Culture Handbook](https://standards.nasa.gov/standard/nasa/nasa-hdbk-870924)
 
 - [Software System Safety Handbook](http://www.system-safety.org/Documents/Software_System_Safety_Handbook.pdf)
 
