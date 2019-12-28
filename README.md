@@ -64,6 +64,8 @@ latest documents on the topic.
 > A curated list of static analysis tools, linters and code quality checkers
 for various programming languages
 
+- [Computer-Based System Safety Essential Reading List](https://safeautonomy.blogspot.com/p/safe-autonomy.html)
+
 ## Resources
 
 - [European Cooperation for Space Standardization](http://ecss.nl/)
