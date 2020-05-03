@@ -1,0 +1,16 @@
+{#
+    asc/layout.html
+    ~~~~~~~~~~~~~~~
+
+    Sphinx layout template for the awesome-safety-critical (ASC) theme.
+
+    :copyright: Copyright 2007-2020 by the Sphinx team, see AUTHORS.
+    :license: BSD, see LICENSE for details.
+#}
+
+{%- extends "asc-classic/layout.html" %}
+
+{%- block scripts %}
+    {{ super() }}
+    <script src="{{ pathto('_static/metainfo.js', 1) }}"></script>
+{%- endblock %}

@@ -1,0 +1,29 @@
+@import url("classic.css");
+
+.keyword {
+  background-color: #eee;
+  padding: 10px 5px;
+  margin: 4px 2px;
+  line-height: 2.4;
+  user-select: none;
+}
+
+.asc-active {
+  display: block;
+}
+
+.asc-inactive {
+  display: none;
+}
+
+.keyword-active {
+  background-color: red;
+}
+
+.keyword-inactive {
+  background-color: #eee;
+}
+
+.keyword-nocontent {
+  background-color: #aaa;
+}
