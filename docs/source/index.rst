@@ -616,6 +616,28 @@ Papers
 
     `The Role of Software in Spacecraft Accidents <http://sunnyday.mit.edu/papers/jsr.pdf>`_
 
+.. asc-meta::
+    :types: Paper
+    :keywords: MISRA
+    :languages: C
+    :industries: All
+
+    `The MISRA C Coding Standard: A Key Enabler for the Development of Safety-and Security-Critical Embedded Software <https://www.bugseng.com/filebrowser/download/32>`_
+
+.. asc-meta::
+    :types: Paper
+    :keywords: Compilers
+    :languages: C
+    :industries: All
+
+    `That’s C, baby. C! <https://www.bugseng.com/filebrowser/download/38>`_
+
+    *...The problem is due to the fact that the semantics of the C programming
+    language is not fully defined: non-definite behavior, predefined macros,
+    different library implementations, peculiarities of the translation process,
+    ...: all these contribute to the fact that no meaning can be assigned to
+    source code unless full details about the build are available...*
+
 Reports
 -------
 
@@ -800,7 +822,7 @@ Videos
 .. asc-meta::
     :types: Video
     :industries: All, Automotive
-    :keywords: Safety, Certification
+    :keywords: Safety, Certification, Compilers
 
     `2017 EuroLLVM Developers’ Meeting: M. Beemster "Using LLVM for Safety-Critical Applications <https://www.youtube.com/watch?v=pmy1Ttieh3I>`_
     and
