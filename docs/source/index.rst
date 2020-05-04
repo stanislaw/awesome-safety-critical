@@ -13,19 +13,20 @@ awesome-safety-critical
 This is a list of resources about programming practices for writing
 safety-critical software.
 
-The starting point for me to create this resource was my interest in a solid
-software:
-
-`What kind of special training do engineers working on mission-critical software receive? [closed] <What*kind*of*special*training*do*engineer*working*on*mission-critical*software*receive%3F*-*Stack*Overflow.pdf) and [its followup on Reddit](https://www.reddit.com/r/programming/comments/5iohue/what*kind*of_special_training_do_engineers>`__
-
-**Disclaimer:** Resources presented here are not necessarily authoritative or
+**Disclaimer:** Resources collected here are not necessarily authoritative or
 latest documents on the topic.
 
-.. About this repository
-   toctree::
-   maxdepth: 1
-   ContentOrganization
-   QA
+
+About
+-----
+
+.. toctree::
+   :maxdepth: 1
+
+   about
+
+.. ContentOrganization
+.. QA
 
 Tags
 ----
@@ -376,7 +377,7 @@ Coding guidelines
     :industries: All, Space
     :companies: NASA, JPL
 
-    `The Power of Ten – Rules for Developing Safety Critical Code <Backup/P10.pdf>`_
+    `The Power of Ten – Rules for Developing Safety Critical Code <https://github.com/stanislaw/awesome-safety-critical/blob/master/Backup/P10.pdf>`_
 
 .. asc-meta::
     :types: Coding guidelines
@@ -384,7 +385,7 @@ Coding guidelines
     :industries: All, Space
     :companies: NASA, JPL
 
-    `JPL Institutional Coding Standard for the C Programming Language <https://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_C.pdf>`_
+    `JPL Institutional Coding Standard for the C Programming Language <https://github.com/stanislaw/awesome-safety-critical/blob/master/Backup/JPL_Coding_Standard_C.pdf>`_
 
 .. asc-meta::
     :types: Coding guidelines
@@ -392,7 +393,7 @@ Coding guidelines
     :industries: All, Space
     :companies: NASA
 
-    `NASA C STYLE GUIDE <Backup/nasa-c-style.pdf>`_
+    `NASA C STYLE GUIDE <https://github.com/stanislaw/awesome-safety-critical/blob/master/Backup/nasa-c-style.pdf>`_
 
 .. asc-meta::
     :types: Coding guidelines
@@ -452,7 +453,7 @@ Certification
     :industries: All
     :keywords: Certification
 
-    `Certification Requirements for Safety-Critical Software <Backup/Certification-Requirements-for-Safety-Critical-Software-RTC-Magazine.pdf>`_
+    `Certification Requirements for Safety-Critical Software <https://github.com/stanislaw/awesome-safety-critical/blob/master/Backup/Certification-Requirements-for-Safety-Critical-Software-RTC-Magazine.pdf>`_
 
 .. asc-meta::
     :types: Article
