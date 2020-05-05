@@ -24,8 +24,7 @@ About
    :maxdepth: 1
 
    about
-
-.. ContentOrganization
+   ContentOrganization
 .. QA
 
 Tags
@@ -771,10 +770,12 @@ Books
 
 .. asc-meta::
     :types: Book
-    :industries: All
     :keywords: Safety, System Safety
+    :industries: All
+    :people: Nancy Leveson
 
-    `Engineering a Safer World. Systems Thinking Applied to Safety <https://mitpress.mit.edu/books/engineering-safer-world>`_
+    `Engineering a Safer World. Systems Thinking Applied to Safety
+    <https://mitpress.mit.edu/books/engineering-safer-world>`_
 
 .. asc-meta::
     :types: Book
