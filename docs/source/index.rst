@@ -90,8 +90,9 @@ Resources
 
 .. asc-meta::
     :types: Resource
+    :keywords: Standards
     :industries: Space
-    :keywords: Hardware, Standards
+    :standards: ECSS
 
     `European Cooperation for Space Standardization <http://ecss.nl/>`_
 
@@ -248,6 +249,7 @@ Software safety standards
 .. asc-meta::
     :types: Standard
     :industries: Space
+    :standards: ECSS
     :companies: ESA
 
     `ECSS-E-ST-40C, Software <http://ecss.nl/standard/ecss-e-st-40c-software-general-requirements/>`_
@@ -255,6 +257,7 @@ Software safety standards
 .. asc-meta::
     :types: Standard
     :industries: Space
+    :standards: ECSS
     :companies: ESA
 
     `ECSS-Q-ST-80C Rev.1 – Software product assurance <http://ecss.nl/standard/ecss-q-st-80c-rev-1-software-product-assurance-15-february-2017/>`_
@@ -265,10 +268,19 @@ Handbooks
 
 .. asc-meta::
     :types: Handbook
+    :standards: ECSS
     :industries: Space
     :companies: ESA
 
     `ECSS-E-HB-40A – Software engineering handbook <http://ecss.nl/hbstms/ecss-e-hb-40a-software-engineering-handbook-11-december-2013/>`_
+
+.. asc-meta::
+    :types: Handbook
+    :standards: ECSS
+    :industries: Space
+    :companies: ESA
+
+    `ECSS‐Q‐HB‐80‐04A – Software metrication programme definition and implementation <http://escies.org/ftp/ecss.nl/Handbooks/ECSS-Q-HB-80-04A(30March2011).pdf>`_
 
 .. asc-meta::
     :types: Handbook
