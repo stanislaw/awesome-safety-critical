@@ -48,7 +48,7 @@ Typical link example:
       <https://mitpress.mit.edu/books/engineering-safer-world>`_
 
 Aliases
-~~~~~~~
+-------
 
 Some links can be associated with the keywords or topics that may be similar.
 This might produce duplication and possibly confusion.
@@ -66,3 +66,12 @@ onboard an aircraft or a spacecraft which has not been the case so far.
 There are more implicit rules for aliasing of this kind. Depending on the new
 content they might change if it is clear that alternative naming yields more
 consistent results.
+
+Backups
+-------
+
+This list's repository contains a backup of some content presented in the list.
+This is done to ensure availability of these resources in case if their original
+sources become unavailable. Every link always points to its original source
+unless it becomes unavailable in which case a resource from a backup is used
+or a link to web.archive.org when available.
