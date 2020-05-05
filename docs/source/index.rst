@@ -755,6 +755,22 @@ Books
 
 .. asc-meta::
     :types: Book
+    :keywords: Safety, Functional Safety
+    :standards: ISO 26262
+    :industries: All
+
+    `Automotive System Safety: Critical Considerations for Engineering and Effective Management <https://www.wiley.com/en-us/Automotive+System+Safety%3A+Critical+Considerations+for+Engineering+and+Effective+Management-p-9781119579700>`_
+
+.. asc-meta::
+    :types: Book
+    :keywords: Safety, Functional Safety
+    :standards: ISO 26262
+    :industries: All
+
+    `Functional Safety for Road Vehicles <https://www.springer.com/de/book/9783319333601>`_
+
+.. asc-meta::
+    :types: Book
     :industries: All
     :keywords: Safety, System Safety
 
@@ -834,6 +850,7 @@ Videos
 .. asc-meta::
     :types: Video
     :industries: All, Automotive
+    :standards: ISO 26262
     :keywords: Safety, Certification, Compilers
 
     `2017 EuroLLVM Developers’ Meeting: M. Beemster "Using LLVM for Safety-Critical Applications <https://www.youtube.com/watch?v=pmy1Ttieh3I>`_
