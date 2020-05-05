@@ -3,7 +3,9 @@ from docutils.nodes import field_list
 from docutils.parsers.rst import Directive
 
 
-KNOWN_FIELDS = ['types', 'keywords', 'languages', 'industries', 'companies', 'people']
+KNOWN_CATEGORIES = [
+    'types', 'keywords', 'languages', 'industries', 'standards', 'companies', 'people'
+]
 
 
 def debug_print(string):
@@ -83,7 +85,7 @@ class ASCMetaDirective(Directive):
             field_name_text_node = field_name_node.children[0]
             field_name_text = field_name_text_node.astext()
             assert isinstance(field_name_text, str)
-            assert field_name_text in KNOWN_FIELDS
+            assert field_name_text in KNOWN_CATEGORIES
 
             debug_print("field_name_text: {}".format(field_name_text))
 
@@ -132,7 +134,9 @@ def process_asc_meta(app, doctree, fromdocname):
 
                 all_asc_meta_content[field].update(asc_meta[field])
 
-        for category in all_asc_meta_content:
+        for category in KNOWN_CATEGORIES:
+            assert category in all_asc_meta_content
+
             para = nodes.paragraph()
 
             # Category

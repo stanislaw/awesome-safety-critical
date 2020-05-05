@@ -10,7 +10,7 @@
 $(function() {
   /// Constants
   var CATEGORIES = [
-    'types', 'keywords', 'languages', 'industries', 'companies', 'people'
+    'types', 'keywords', 'languages', 'standards', 'industries', 'companies', 'people'
   ];
 
   var COLORS = {
