@@ -268,6 +268,16 @@ Software safety standards
     `NASA Software Formal Inspections Standard
     <https://standards.nasa.gov/standard/nasa/nasa-std-87399>`_
 
+.. asc-meta::
+    :types: Standard
+    :keywords: Software Quality
+    :industries: Space
+    :standards: NASA
+    :companies: NASA
+
+    `NASA Software Assurance Standard
+    <https://standards.nasa.gov/standard/nasa/nasa-std-87398>`_
+
 Handbooks
 ---------
 
