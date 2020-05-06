@@ -45,7 +45,7 @@ Friendly lists
 
 .. asc-meta::
     :types: List
-    :keywords: Quality
+    :keywords: Software Quality
 
     `awesome-software-quality <https://github.com/ligurio/awesome-software-quality>`_
 
@@ -236,7 +236,8 @@ Software safety standards
     :industries: Space, All
     :companies: NASA
 
-    `NASA-STD-8719.13C, NASA Software Safety Standard <https://standards.nasa.gov/standard/nasa/nasa-std-871913>`_
+    `NASA-STD-8719.13C, NASA Software Safety Standard
+    <https://standards.nasa.gov/standard/nasa/nasa-std-871913>`_
 
 .. asc-meta::
     :types: Standard
@@ -244,16 +245,28 @@ Software safety standards
     :standards: ECSS
     :companies: ESA
 
-    `ECSS-E-ST-40C, Software <http://ecss.nl/standard/ecss-e-st-40c-software-general-requirements/>`_
+    `ECSS-E-ST-40C, Software
+    <http://ecss.nl/standard/ecss-e-st-40c-software-general-requirements/>`_
 
 .. asc-meta::
     :types: Standard
+    :keywords: Software Quality
     :industries: Space
     :standards: ECSS
     :companies: ESA
 
-    `ECSS-Q-ST-80C Rev.1 – Software product assurance <http://ecss.nl/standard/ecss-q-st-80c-rev-1-software-product-assurance-15-february-2017/>`_
+    `ECSS-Q-ST-80C Rev.1 – Software product assurance
+    <http://ecss.nl/standard/ecss-q-st-80c-rev-1-software-product-assurance-15-february-2017/>`_
 
+.. asc-meta::
+    :types: Standard
+    :keywords: Software Quality
+    :industries: Space
+    :standards: NASA
+    :companies: NASA
+
+    `NASA Software Formal Inspections Standard
+    <https://standards.nasa.gov/standard/nasa/nasa-std-87399>`_
 
 Handbooks
 ---------
@@ -268,6 +281,7 @@ Handbooks
 
 .. asc-meta::
     :types: Handbook
+    :keywords: Software Quality
     :standards: ECSS
     :industries: Space
     :companies: ESA
