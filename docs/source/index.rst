@@ -119,8 +119,9 @@ Resources
 
 .. asc-meta::
     :types: Resource
-    :industries: Space, All
     :keywords: Formal Verification
+    :industries: Space, All
+    :companies: NASA
 
     `NASA Langley Formal Methods Research Program <https://shemesh.larc.nasa.gov/fm/index.html>`_
 
@@ -128,6 +129,14 @@ Resources
     Safety-Critical Avionics Systems Branch develops formal methods technology
     for the development of mission-critical and safety-critical digital systems
     of interest to NASA.
+
+.. asc-meta::
+    :types: Resource
+    :keywords: Standards
+    :industries: Space, All
+    :companies: NASA
+
+    `NASA Technical Standards System <https://standards.nasa.gov/nasa-technical-standards>`_
 
 Software safety standards
 -------------------------
@@ -226,9 +235,9 @@ Software safety standards
 .. asc-meta::
     :types: Standard
     :industries: All
-    :keywords: Safety
+    :keywords: Safety, System Safety
 
-    `MIL-STD-882E, System Safety <http://www.system-safety.org/Documents/MIL-STD-882E.pdf>`_
+    `MIL-STD-882E, System Safety <http://everyspec.com/MIL-STD/MIL-STD-0800-0899/MIL-STD-882E_41682/>`_
 
 .. asc-meta::
     :types: Standard
@@ -243,7 +252,7 @@ Software safety standards
     :industries: Space, All
     :companies: NASA
 
-    `NASA-STD-8719.13B, NASA Software Safety Standard <http://www.system-safety.org/Documents/NASA-STD-8719.13B.pdf>`_
+    `NASA-STD-8719.13C, NASA Software Safety Standard <https://standards.nasa.gov/standard/nasa/nasa-std-871913>`_
 
 .. asc-meta::
     :types: Standard
@@ -287,7 +296,7 @@ Handbooks
     :companies: NASA
     :keywords: Safety
 
-    `NASA Software Safety Guidebook <http://www.system-safety.org/Documents/NASA-GB-8719.13.pdf>`_
+    `NASA Software Safety Guidebook <https://standards.nasa.gov/standard/nasa/nasa-gb-871913>`_
 
     NASA's Software Safety Guidebook (pdf file). The handbook complement to the
     Software Safety Standard.
