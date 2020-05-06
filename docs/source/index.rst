@@ -103,22 +103,6 @@ Resources
 
 .. asc-meta::
     :types: Resource
-    :industries: All
-    :keywords: Safety
-
-    `The International System Safety Society <http://www.system-safety.org/>`_
-
-    The International System Safety Society is a non-profit organization
-    dedicated to supporting the Safety Professional in the application of Systems
-    Engineering and Systems Management to the process of hazard, safety and risk
-    analysis. The Society is international in scope and draws members throughout
-    the world. It is affiliated with major corporations, educational institutions
-    and other agencies in the United States and abroad.
-
-    **This list has a number of links from this resource.**
-
-.. asc-meta::
-    :types: Resource
     :keywords: Formal Verification
     :industries: Space, All
     :companies: NASA
@@ -332,7 +316,7 @@ Handbooks
     :industries: All
     :keywords: Safety
 
-    `Software System Safety Handbook <http://www.system-safety.org/Documents/Software_System_Safety_Handbook.pdf>`_
+    `Software System Safety Handbook <https://github.com/stanislaw/awesome-safety-critical/blob/master/Backup/Software_System_Safety_Handbook.pdf>`_
 
     From the Joint Services Computer Resources Management Group, US Navy,
     US Army, And US Air Force (pdf file)
@@ -342,14 +326,14 @@ Handbooks
     :industries: All
     :keywords: Safety
 
-    `Joint Software Systems Safety Engineering Handbook <http://www.system-safety.org/Documents/SOFTWARE_SYSTEM_SAFETY_HDBK_2010.pdf>`_
+    `Joint Software Systems Safety Engineering Handbook <http://www.acqnotes.com/Attachments/Joint-SW-Systems-Safety-Engineering-Handbook.pdf>`_
 
 .. asc-meta::
     :types: Handbook
     :industries: All
     :keywords: Safety, System Safety
 
-    `Air Force System Safety Handbook <http://www.system-safety.org/Documents/AF_System-Safety-HNDBK.pdf>`_
+    `Air Force System Safety Handbook <http://www.acqnotes.com/Attachments/AF_System-Safety-HNDBK.pdf>`_
 
     First chapter has an excellent introduction to system safety with a
     discussion of the evolution of the DoD Standard 882 (DOD Standard Practice
@@ -362,6 +346,13 @@ Handbooks
     :keywords: Technology Readiness Level
 
     `European Space Agency - Technology Readiness Levels Handbook for Space Applications <https://artes.esa.int/sites/default/files/TRL_Handbook.pdf>`_
+
+.. asc-meta::
+    :types: Handbook
+    :industries: Aviation
+    :keywords: Safety, System Safety
+
+    `System Safety Handbook <https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/risk_management/ss_handbook/>`_
 
 Coding guidelines
 -----------------
