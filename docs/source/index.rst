@@ -352,7 +352,7 @@ Handbooks
     :industries: Aviation
     :keywords: Safety, System Safety
 
-    `System Safety Handbook <https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/risk_management/ss_handbook/>`_
+    `FAA System Safety Handbook <https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/risk_management/ss_handbook/>`_
 
 Coding guidelines
 -----------------
