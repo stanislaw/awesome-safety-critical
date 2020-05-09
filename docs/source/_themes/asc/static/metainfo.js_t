@@ -24,16 +24,16 @@ $(function() {
   /// Main DOM nodes
   var keywords = $('.keyword');
   var sections = $('#awesome-safety-critical').children('.section');
-  var ascNodes = $('div.asc-node');
+  var ascNodes = $('div.aws-node');
 
   /// Editing styles
 
   var ascShow = function(object) {
-      object.addClass('asc-active').removeClass('asc-inactive');
+      object.addClass('aws-active').removeClass('aws-inactive');
   }
 
   var ascHide = function(object) {
-      object.addClass('asc-inactive').removeClass('asc-active');
+      object.addClass('aws-inactive').removeClass('aws-active');
   }
 
   var keywordSetHighlighted = function(keyword, state) {
@@ -227,14 +227,14 @@ $(function() {
     sections.each(function(i, _section) {
       var section = $(_section);
 
-      var ascNodes = $(section).find('.asc-node');
+      var ascNodes = $(section).find('.aws-node');
 
       // This section does not have any ASC nodes, skipping.
       if (ascNodes.length == 0) {
         return;
       }
 
-      var activeAscNodes = $(section).find('.asc-active');
+      var activeAscNodes = $(section).find('.aws-active');
 
       if (activeAscNodes.length > 0) {
         ascShow(section);

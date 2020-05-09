@@ -465,11 +465,11 @@ ul.page-nav li {
 /* .section#meta-information {} */
 
 
-.asc-node {
+.aws-node {
   margin: 2rem 0;
 }
 
-.asc-node p {
+.aws-node p {
   /* margin: 0.5rem 0; */
 }
 
@@ -509,10 +509,10 @@ ul.page-nav li {
   /* border-bottom: 1px solid transparent; */
 }
 
-.asc-active {
+.aws-active {
   display: block;
 }
 
-.asc-inactive {
+.aws-inactive {
   display: none;
 }

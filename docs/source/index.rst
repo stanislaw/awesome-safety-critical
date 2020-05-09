@@ -30,12 +30,12 @@ About
 Tags
 ----
 
-.. asc-meta-summary::
+.. aws-meta-summary::
 
 Friendly lists
 --------------
 
-.. asc-meta::
+.. aws-meta::
     :types: List
     :keywords: Safety, Resilience
 
@@ -43,7 +43,7 @@ Friendly lists
 
     Resilience engineering papers http://resiliencepapers.club
 
-.. asc-meta::
+.. aws-meta::
     :types: List
     :keywords: Software Quality
 
@@ -51,7 +51,7 @@ Friendly lists
 
     List of free software testing and verification resources
 
-.. asc-meta::
+.. aws-meta::
     :types: List
     :keywords: Verification
 
@@ -59,7 +59,7 @@ Friendly lists
 
     A curated set of links to formal methods involving provable code.
 
-.. asc-meta::
+.. aws-meta::
     :types: List
     :keywords: Verification, Formal Verification
     :companies: All
@@ -68,7 +68,7 @@ Friendly lists
 
     A List of companies that use Formal methods in Software engineering
 
-.. asc-meta::
+.. aws-meta::
     :types: List
     :keywords: Verification
 
@@ -77,7 +77,7 @@ Friendly lists
     A curated list of static analysis tools, linters and code quality checkers
     for various programming languages
 
-.. asc-meta::
+.. aws-meta::
     :types: List
     :keywords: Safety
     :people: Phil Koopman
@@ -87,7 +87,7 @@ Friendly lists
 Resources
 ---------
 
-.. asc-meta::
+.. aws-meta::
     :types: Resource
     :keywords: Standards
     :industries: Space
@@ -101,7 +101,7 @@ Resources
 
     **This list has a number of links from this resource.**
 
-.. asc-meta::
+.. aws-meta::
     :types: Resource
     :keywords: Formal Verification
     :industries: Space, All
@@ -114,7 +114,7 @@ Resources
     for the development of mission-critical and safety-critical digital systems
     of interest to NASA.
 
-.. asc-meta::
+.. aws-meta::
     :types: Resource
     :keywords: Standards
     :industries: Space, All
@@ -125,7 +125,7 @@ Resources
 Software safety standards
 -------------------------
 
-.. asc-meta::
+.. aws-meta::
     :types: Standard
     :industries: All
     :keywords: Safety, Functional Safety
@@ -137,7 +137,7 @@ Software safety standards
     Functional Safety of Electrical/Electronic/Programmable Electronic
     Safety-related Systems (E/E/PE, or E/E/PES).
 
-.. asc-meta::
+.. aws-meta::
     :types: Standard
     :industries: Automotive
     :keywords: Safety, Functional Safety
@@ -150,7 +150,7 @@ Software safety standards
     details about Hazard Analysis and Risk Assessment and system design to
     detect faults and their potential failures.
 
-.. asc-meta::
+.. aws-meta::
     :types: Standard
     :industries: Automotive
     :keywords: Safety, Functional Safety
@@ -162,7 +162,7 @@ Software safety standards
     railway control and protection including communications, signaling and
     processing systems.
 
-.. asc-meta::
+.. aws-meta::
     :types: Standard
     :industries: Nuclear
     :keywords: Safety, Functional Safety
@@ -175,7 +175,7 @@ Software safety standards
     hardwired equipment, computer-based equipment or a combination of both types of
     equipment.
 
-.. asc-meta::
+.. aws-meta::
     :types: Standard
     :industries: Aviation
     :keywords: Safety
@@ -193,7 +193,7 @@ Software safety standards
     applicable airworthiness regulations for the software aspects of
     airborne systems and equipment certification." (Wikipedia)
 
-.. asc-meta::
+.. aws-meta::
     :types: Standard
     :industries: All
     :keywords: Safety
@@ -204,7 +204,7 @@ Software safety standards
     Committee (AEEC) where Rockwell Collins and other aviation suppliers serve
     as a contributor in support of their airline customer base. (Wikipedia)
 
-.. asc-meta::
+.. aws-meta::
     :types: Standard
     :industries: All
     :keywords: Safety, RTOS
@@ -216,21 +216,21 @@ Software safety standards
     standard also specifies Application Program Interfaces (APIs) for
     abstraction of the application from the underlying hardware and software.
 
-.. asc-meta::
+.. aws-meta::
     :types: Standard
     :industries: All
     :keywords: Safety, System Safety
 
     `MIL-STD-882E, System Safety <http://everyspec.com/MIL-STD/MIL-STD-0800-0899/MIL-STD-882E_41682/>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Standard
     :industries: All
     :keywords: Safety
 
     `MIL-STD-1472G, Human Engineering <http://everyspec.com/MIL-STD/MIL-STD-1400-1499/download.php?spec=MIL-STD-1472G.039997.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Standard
     :keywords: Safety
     :industries: Space, All
@@ -239,7 +239,7 @@ Software safety standards
     `NASA-STD-8719.13C, NASA Software Safety Standard
     <https://standards.nasa.gov/standard/nasa/nasa-std-871913>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Standard
     :industries: Space
     :standards: ECSS
@@ -248,7 +248,7 @@ Software safety standards
     `ECSS-E-ST-40C, Software
     <http://ecss.nl/standard/ecss-e-st-40c-software-general-requirements/>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Standard
     :keywords: Software Quality
     :industries: Space
@@ -258,7 +258,7 @@ Software safety standards
     `ECSS-Q-ST-80C Rev.1 – Software product assurance
     <http://ecss.nl/standard/ecss-q-st-80c-rev-1-software-product-assurance-15-february-2017/>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Standard
     :keywords: Software Quality
     :industries: Space
@@ -268,7 +268,7 @@ Software safety standards
     `NASA Software Formal Inspections Standard
     <https://standards.nasa.gov/standard/nasa/nasa-std-87399>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Standard
     :keywords: Software Quality
     :industries: Space
@@ -281,7 +281,7 @@ Software safety standards
 Handbooks
 ---------
 
-.. asc-meta::
+.. aws-meta::
     :types: Handbook
     :standards: ECSS
     :industries: Space
@@ -289,7 +289,7 @@ Handbooks
 
     `ECSS-E-HB-40A – Software engineering handbook <http://ecss.nl/hbstms/ecss-e-hb-40a-software-engineering-handbook-11-december-2013/>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Handbook
     :keywords: Software Quality
     :standards: ECSS
@@ -298,7 +298,7 @@ Handbooks
 
     `ECSS‐Q‐HB‐80‐04A – Software metrication programme definition and implementation <http://escies.org/ftp/ecss.nl/Handbooks/ECSS-Q-HB-80-04A(30March2011).pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Handbook
     :industries: Space
     :companies: NASA
@@ -309,7 +309,7 @@ Handbooks
     NASA's Software Safety Guidebook (pdf file). The handbook complement to the
     Software Safety Standard.
 
-.. asc-meta::
+.. aws-meta::
     :types: Handbook
     :industries: Space
     :companies: NASA
@@ -317,7 +317,7 @@ Handbooks
 
     `NASA Systems Engineering Handbook <https://www.nasa.gov/connect/ebooks/nasa-systems-engineering-handbook>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Handbook
     :industries: Space
     :companies: NASA
@@ -327,7 +327,7 @@ Handbooks
 
     `The Development of NASA’s Fault Management Handbook (Slides) <https://indico.esa.int/event/62/contributions/2777/attachments/2297/2653/1125_-_the-development-of-nasas-fault-management-handbook_Presentation.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Handbook
     :industries: All
     :companies: NASA
@@ -335,7 +335,7 @@ Handbooks
 
     `NASA Safety Culture Handbook <https://standards.nasa.gov/standard/nasa/nasa-hdbk-870924>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Handbook
     :industries: All
     :keywords: Safety
@@ -345,14 +345,14 @@ Handbooks
     From the Joint Services Computer Resources Management Group, US Navy,
     US Army, And US Air Force (pdf file)
 
-.. asc-meta::
+.. aws-meta::
     :types: Handbook
     :industries: All
     :keywords: Safety
 
     `Joint Software Systems Safety Engineering Handbook <http://www.acqnotes.com/Attachments/Joint-SW-Systems-Safety-Engineering-Handbook.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Handbook
     :industries: All
     :keywords: Safety, System Safety
@@ -363,7 +363,7 @@ Handbooks
     discussion of the evolution of the DoD Standard 882 (DOD Standard Practice
     for System Safety).
 
-.. asc-meta::
+.. aws-meta::
     :types: Handbook
     :industries: Space
     :companies: ESA
@@ -371,7 +371,7 @@ Handbooks
 
     `European Space Agency - Technology Readiness Levels Handbook for Space Applications <https://artes.esa.int/sites/default/files/TRL_Handbook.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Handbook
     :industries: Aviation
     :keywords: Safety, System Safety
@@ -381,7 +381,7 @@ Handbooks
 Coding guidelines
 -----------------
 
-.. asc-meta::
+.. aws-meta::
     :types: Coding guidelines
     :keywords: MISRA
     :languages: C, C++
@@ -398,7 +398,7 @@ Coding guidelines
 
     See more papers there.
 
-.. asc-meta::
+.. aws-meta::
     :types: Coding guidelines
     :keywords: AUTOSAR
     :languages: C++
@@ -406,7 +406,7 @@ Coding guidelines
 
     `AUTOSAR C++14: Guidelines for the use of the C++14 language in critical and safety-related systems <https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-03/AUTOSAR_RS_CPP14Guidelines.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Coding guidelines
     :languages: C, C++
     :industries: All, Space
@@ -414,7 +414,7 @@ Coding guidelines
 
     `The Power of Ten – Rules for Developing Safety Critical Code <https://github.com/stanislaw/awesome-safety-critical/blob/master/Backup/P10.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Coding guidelines
     :languages: C
     :industries: All, Space
@@ -422,7 +422,7 @@ Coding guidelines
 
     `JPL Institutional Coding Standard for the C Programming Language <https://github.com/stanislaw/awesome-safety-critical/blob/master/Backup/JPL_Coding_Standard_C.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Coding guidelines
     :languages: C
     :industries: All, Space
@@ -430,7 +430,7 @@ Coding guidelines
 
     `NASA C STYLE GUIDE <https://github.com/stanislaw/awesome-safety-critical/blob/master/Backup/nasa-c-style.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Coding guidelines
     :languages: C++
     :industries: All, Space
@@ -440,7 +440,7 @@ Coding guidelines
 
     This document is based on the "C Style Guide" (SEL-94-003). It contains recommendations for C++ implementations that build on, or in some cases replace, the style described in the C style guide.
 
-.. asc-meta::
+.. aws-meta::
     :types: Coding guidelines
     :languages: C
     :industries: All
@@ -450,7 +450,7 @@ Coding guidelines
     SEI CERT C and C++ Coding Standards are now freely available in pdf format:
     `C Coding Standard <http://www.sei.cmu.edu/downloads/sei-cert-c-coding-standard-2016-v01.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Coding guidelines
     :languages: C++
     :industries: All
@@ -460,7 +460,7 @@ Coding guidelines
     SEI CERT C and C++ Coding Standards are now freely available in pdf format:
     `C++ Coding Standard <http://www.cert.org/downloads/secure-coding/assets/sei-cert-cpp-coding-standard-2016-v01.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Coding guidelines
     :languages: C++
     :industries: All
@@ -475,7 +475,7 @@ Topics
 Certification
 ~~~~~~~~~~~~~
 
-.. asc-meta::
+.. aws-meta::
     :types: Presentation
     :keywords: Certification
     :industries: All
@@ -483,14 +483,14 @@ Certification
 
     `Introduction to Certification by Quentin Ochem, AdaCore <http://idl.univ-brest.fr/etr11/EXPOSES%20ETR%202011/mercredi%20AM/etr11-ochem.pptx>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Article
     :industries: All
     :keywords: Certification
 
     `Certification Requirements for Safety-Critical Software <https://github.com/stanislaw/awesome-safety-critical/blob/master/Backup/Certification-Requirements-for-Safety-Critical-Software-RTC-Magazine.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Article
     :industries: All
     :companies: ESA, NASA
@@ -508,7 +508,7 @@ Certification
 Formal verification
 ~~~~~~~~~~~~~~~~~~~
 
-.. asc-meta::
+.. aws-meta::
     :types: Article
     :industries: All
     :companies: INRIA
@@ -519,7 +519,7 @@ Formal verification
 MC/DC
 ~~~~~
 
-.. asc-meta::
+.. aws-meta::
     :types: Paper
     :industries: All
     :companies: NASA
@@ -531,7 +531,7 @@ MC/DC
     aviation software products, and an analysis of some types of errors expected
     to be caught when MC/DC is achieved.
 
-.. asc-meta::
+.. aws-meta::
     :types: Paper
     :industries: All
     :companies: NASA
@@ -543,7 +543,7 @@ MC/DC
     condition/decision coverage (MC/DC) for aviation software products that must
     comply with regulatory guidance for DO-178B level A software.
 
-.. asc-meta::
+.. aws-meta::
     :types: Paper
     :industries: All
     :companies: NASA
@@ -560,19 +560,19 @@ MC/DC
 Articles
 --------
 
-.. asc-meta::
+.. aws-meta::
     :types: Article
     :industries: All
 
     `About Safety Critical Software <http://web.archive.org/web/20110209112635/http://www.aonix.com/safety_critical_overview.html>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Article
     :industries: All
 
     `IEEE Spectrum-Why Software Fails <http://spectrum.ieee.org/computing/software/why-software-fails>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Article
     :industries: All
 
@@ -581,7 +581,7 @@ Articles
 Papers
 ------
 
-.. asc-meta::
+.. aws-meta::
     :types: Paper
     :industries: All
     :people: Nancy Leveson
@@ -595,55 +595,55 @@ Papers
     An attempt is made to lay out the properties of industries and systems that
     make one approach more appropriate than another.
 
-.. asc-meta::
+.. aws-meta::
     :types: Paper
     :industries: All
     :keywords: Safety Standards, Software Safety Standards
 
     `Software Safety Standards: Evolution and Lessons Learned <http://paris.utdallas.edu/reu/document/01-Publications/04-Software-Safety-Standards-TSA.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Paper
     :industries: All
     :keywords: Safety Standards, Software Safety Standards
 
     `An Overview of Software Safety Standards <https://www.osti.gov/scitech/servlets/purl/184397>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Paper
     :industries: All
     :people: Joe Armstrong
 
     `Making reliable distributed systems in the presence of software errors <http://erlang.org/download/armstrong_thesis_2003.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Paper
     :industries: All
 
     `Why Do Computers Stop and What Can Be Done About It? <http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Paper
     :industries: All
     :keywords: Requirements
 
     `Targeting Safety-Related  Errors  During  Software Requirements Analysis <https://trs.jpl.nasa.gov/bitstream/handle/2014/35179/93-0749.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Paper
     :industries: All, Medical
     :people: Richard Cook
 
     `How Complex Systems Fail <http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Paper
     :industries: All
     :keywords: Certification
 
     `The Qualification of Software Development Tools From the DO-178B Certification Perspective <http://static1.1.sqspcdn.com/static/f/702523/9272430/1288904989327/200604-Kornecki.pdf?token=uZElb5dHWyIfQeLIZnOpSN5BG%2FE%3D>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Paper
     :keywords: Accidents
     :industries: All, Space
@@ -651,7 +651,7 @@ Papers
 
     `The Role of Software in Spacecraft Accidents <http://sunnyday.mit.edu/papers/jsr.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Paper
     :keywords: MISRA
     :languages: C
@@ -659,7 +659,7 @@ Papers
 
     `The MISRA C Coding Standard: A Key Enabler for the Development of Safety-and Security-Critical Embedded Software <https://www.bugseng.com/filebrowser/download/32>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Paper
     :keywords: Compilers
     :languages: C
@@ -676,14 +676,14 @@ Papers
 Reports
 -------
 
-.. asc-meta::
+.. aws-meta::
     :types: Report
     :industries: Space
     :people: Nancy Leveson
 
     `An Assessment of Space Shuttle Flight Software Development Processes <https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19930019745.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Report
     :industries: Nuclear
 
@@ -691,7 +691,7 @@ Reports
 
     Common position of international nuclear regulators and authorised technical support organisations
 
-.. asc-meta::
+.. aws-meta::
     :types: Report
     :industries: Automotive
     :keywords: Safety Standards
@@ -705,14 +705,14 @@ Reports
 Accidents
 ---------
 
-.. asc-meta::
+.. aws-meta::
     :types: Resource
     :industries: All
     :keywords: Accidents
 
     `Failure Knowledge Database <http://www.shippai.org/fkd/en/index.html>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Accident Report
     :industries: Space
     :keywords: Accidents
@@ -720,14 +720,14 @@ Accidents
 
     `Mars Climate Orbiter Mishap Investigation <http://sunnyday.mit.edu/accidents/MCO_report.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Accident Report
     :industries: Space
     :keywords: Accidents
 
     `Report on the Loss of the Mars Polar Lander and Deep Space 2 Missions <https://spaceflight.nasa.gov/spacenews/releases/2000/mpl/mpl_report_1.pdf>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Accident Report
     :industries: Medical
     :keywords: Accidents
@@ -737,7 +737,7 @@ Accidents
     `Medical Devices: The Therac-25 (updated version of the paper) <http://sunnyday.mit.edu/papers/therac.pdf>`_,
     `Killed by a Machine: The Therac-25 <https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25>`_ (article)
 
-.. asc-meta::
+.. aws-meta::
     :types: Accident Report
     :industries: Space
     :companies: ESA
@@ -746,7 +746,7 @@ Accidents
 
     `ESA ARIANE 5 Flight 501 Failure <http://sunnyday.mit.edu/accidents/Ariane5accidentreport.html>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Accident Report
     :industries: Space
     :companies: ESA
@@ -755,7 +755,7 @@ Accidents
     `ExoMars 2016 - Schiaparelli Anomaly Inquiry (PDF at the bottom) <http://exploration.esa.int/mars/59176-exomars-2016-schiaparelli-anomaly-inquiry>`_,
     `ESA Schiaparelli Lander Crash <http://spacenews.com/esa-mars-lander-crash-caused-by-1-second-inertial-measurement-error>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Accident Report
     :keywords: Accidents
     :industries: Automotive
@@ -769,14 +769,14 @@ Accidents
 Books
 -----
 
-.. asc-meta::
+.. aws-meta::
     :types: Book
     :industries: All
     :keywords: Safety, Functional Safety
 
     `Safety Critical Systems Handbook: A Straight forward Guide to Functional Safety, IEC 61508 (2010 EDITION) and Related Standards, Including Process IEC 61511 and Machinery IEC 62061 and ISO 13849 1st Edition <https://www.amazon.com/Safety-Critical-Systems-Handbook-Functional/dp/0080967817>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Book
     :keywords: Safety, Functional Safety
     :standards: ISO 26262
@@ -784,7 +784,7 @@ Books
 
     `Automotive System Safety: Critical Considerations for Engineering and Effective Management <https://www.wiley.com/en-us/Automotive+System+Safety%3A+Critical+Considerations+for+Engineering+and+Effective+Management-p-9781119579700>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Book
     :keywords: Safety, Functional Safety
     :standards: ISO 26262
@@ -792,7 +792,7 @@ Books
 
     `Functional Safety for Road Vehicles <https://www.springer.com/de/book/9783319333601>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Book
     :keywords: Safety, System Safety
     :industries: All
@@ -801,33 +801,33 @@ Books
     `Engineering a Safer World. Systems Thinking Applied to Safety
     <https://mitpress.mit.edu/books/engineering-safer-world>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Book
     :industries: All
     :keywords: Safety
 
     `Computer-Related Risks <http://www.csl.sri.com/users/neumann/neumann-book.html>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Book
     :industries: All
 
     `Building High Integrity Applications with SPARK <https://www.amazon.com/Building-High-Integrity-Applications-SPARK/dp/1107656842/ref=sr_1_1?s=books&ie=UTF8&qid=1489271661&sr=1-1&keywords=high+integrity+spark>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Book
     :industries: All
 
     `Building Parallel, Embedded, and Real-Time Applications with Ada <https://www.amazon.com/Building-Parallel-Embedded-Real-Time-Applications/dp/0521197163/ref=sr_1_1?s=books&ie=UTF8&qid=1489271672&sr=1-1&keywords=embedded+ada>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Book
     :languages: C
     :industries: All
 
     `Writing Solid Code <http://writingsolidcode.com/>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Book
     :industries: All
     :keywords: Agile Development, Safety
@@ -837,7 +837,7 @@ Books
 Videos
 ------
 
-.. asc-meta::
+.. aws-meta::
     :types: Video, Lecture
     :industries: All
     :keywords: Embedded, Safety
@@ -845,7 +845,7 @@ Videos
 
     `Embedded System Safety Lecture Video Series <https://betterembsw.blogspot.de/2017/12/embedded-system-safety-lecture-video.html>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Video
     :industries: All
     :keywords: Safety, Security
@@ -857,7 +857,7 @@ Videos
     Professor of Aeronautics and Astronautics and Engineering Systems, MIT.
     Cyber Resilient Energy Delivery Consortium (CREDC), http://cred-c.org
 
-.. asc-meta::
+.. aws-meta::
     :types: Video
     :industries: All, Medical
     :keywords: Safety
@@ -872,7 +872,7 @@ Videos
 
     See also paper "How Complex Systems Fail".
 
-.. asc-meta::
+.. aws-meta::
     :types: Video
     :industries: All, Automotive
     :standards: ISO 26262
@@ -884,7 +884,7 @@ Videos
 
     Marcel Beemster, Solid Sands B.V. http://solidsands.nl
 
-.. asc-meta::
+.. aws-meta::
     :types: Video
     :industries: All, Aviation
     :companies: Airbus
@@ -908,13 +908,13 @@ Videos
     Secondly, we will show how Formal Method for verification has been introduced
     in the upcoming issue C of ED-12/DO-178.
 
-.. asc-meta::
+.. aws-meta::
     :types: Video
     :industries: All
 
     `Programming Languages for High-Assurance Vehicles <https://www.youtube.com/watch?v=3iFFYKM3CTM&feature=youtu.be>`_
 
-.. asc-meta::
+.. aws-meta::
     :types: Video
     :languages: C
     :industries: All, Space
@@ -926,7 +926,7 @@ Videos
 Interviews
 ----------
 
-.. asc-meta::
+.. aws-meta::
     :types: Interview
     :industries: Medical
 
@@ -935,7 +935,7 @@ Interviews
 Press
 -----
 
-.. asc-meta::
+.. aws-meta::
     :types: Press
     :industries: Space
 
