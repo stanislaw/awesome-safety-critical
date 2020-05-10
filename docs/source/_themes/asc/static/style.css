@@ -141,8 +141,6 @@ blockquote h2 {
 
 
 
-
-
  /* METTTA: main */
 
 body {
@@ -170,13 +168,25 @@ a.headerlink:hover {
   text-decoration:none
 }
 
- /* METTTA: 
- 
- layout */
+ /* METTTA: */
 
- .related {
-   display: none;
- }
+  /* layout */
+
+.body {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 1rem 1.5rem;
+}
+
+.body .section {
+  margin-bottom: 0;
+  /* margin-top: -4.1rem; */
+  padding-top: 1rem;
+}
+
+  .related {
+    display: none;
+  }
 
  .footer {
   clear:both;
@@ -189,28 +199,116 @@ a.headerlink:hover {
   line-height:1.5rem;
 
   border-top: 1px solid #eaecef;
-  padding-left: 20rem;
+  /* padding-left: 16rem; */
   text-align: center;
 }
 
-/* .document */
-
 .documentwrapper {
   padding-bottom: 2rem;
-  padding-left: 20rem;
+  /* padding-left: 16rem; */
 }
 
-.body {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 2rem 2.5rem;
+.sphinxsidebar {
+  font-size:15px;
+  background-color:#fff;
+  width:16rem;
+  position:fixed;
+  z-index:10;
+  margin:0;
+  /* top:3.6rem; */
+  top:1rem;
+  left:0;
+  bottom:0;
+  -webkit-box-sizing:border-box;
+  box-sizing:border-box;
+  border-right:1px solid #eaecef;
+  overflow-y:auto;
+
+  display: none;
 }
 
-.body .section {
-  margin-bottom: 0;
-  /* margin-top: -4.1rem; */
-  padding-top: 1rem;
+.sphinxsidebarwrapper {
+  padding: 0 1rem 0 1rem;
 }
+
+.section#tags {
+  display: none;
+}
+
+/* layout media */
+
+@media only screen and (min-width: 768px) {
+  .body {
+    margin: 0 auto;
+    max-width: 740px;
+    padding: 2rem 2.5rem;
+  }
+  
+  .sphinxsidebar {
+    width:16rem;
+    display: block;
+  }
+
+  .sphinxsidebarwrapper {
+    padding: 0 1rem 0 2rem;
+  }
+
+  .documentwrapper,
+  .footer {
+    display: block;
+    padding-left: 16rem;
+  }
+
+  .section#tags {
+    display: block;
+  }
+}
+
+@media only screen and (min-width: 899px) {
+  .sphinxsidebar {
+    width:20rem;
+  }
+
+  .sphinxsidebarwrapper {
+    padding: 0 1rem 0 2rem;
+  }
+
+  .documentwrapper,
+  .footer {
+    padding-left: 20rem;
+  }
+}
+
+/* sidebar styles */
+
+.sphinxsidebar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: .95em;
+}
+
+.sphinxsidebar ul ul {
+  padding-left: 1rem;
+}
+
+.sphinxsidebar h3 {
+  display: none;
+}
+
+.sphinxsidebar ul li a[href="#"] {
+  color: black;
+  line-height: 3rem;
+  /* text-transform: capitalize; */
+}
+
+
+
+
+
+
+
+
 
 /*  Typo */
 
@@ -410,50 +508,7 @@ ul.page-nav li {
 
 
 
-/* sidebar */
 
-.sidebar,
-.sphinxsidebar {
-  font-size:15px;
-  background-color:#fff;
-  width:20rem;
-  position:fixed;
-  z-index:10;
-  margin:0;
-  /* top:3.6rem; */
-  top:1rem;
-  left:0;
-  bottom:0;
-  -webkit-box-sizing:border-box;
-  box-sizing:border-box;
-  border-right:1px solid #eaecef;
-  overflow-y:auto
-}
-
-.sphinxsidebarwrapper {
-  padding: 0 1rem 0 2rem;
-}
-
-.sphinxsidebar ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  font-size: .95em;
-}
-
-.sphinxsidebar ul ul {
-  padding-left: 1rem;
-}
-
-.sphinxsidebar h3 {
-  display: none;
-}
-
-.sphinxsidebar ul li a[href="#"] {
-  color: black;
-  line-height: 3rem;
-  /* text-transform: capitalize; */
-}
 
 
 /* custom */
@@ -515,4 +570,54 @@ ul.page-nav li {
 
 .aws-inactive {
   display: none;
+}
+
+
+
+
+
+
+
+
+
+
+@import url(http://fonts.googleapis.com/css?family=Cabin+Condensed:500&text=Fork%20me%20on%20GitHub);
+
+.ribbon{
+  position: absolute; 
+  top: 42px;
+  width: 200px;
+  padding: 1px 0;
+  background: #41b117;
+  color: #eee;
+  box-shadow: 0 0 6px rgba(0,0,0,0.5);
+
+/* right */
+
+  right: -42px;
+  -moz-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.ribbon a, 
+.ribbon a:visited, 
+.ribbon a:active, 
+.ribbon a:hover{
+  display: block;
+  padding: 1px 0;
+  height: 24px;
+  line-height: 24px;
+
+  color: inherit;  
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Cabin Condensed', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+
+  border: 1px solid rgba(255,255,255,0.3);
+  text-shadow: 1px 0 3px rgba(0,0,0,0.5);
 }

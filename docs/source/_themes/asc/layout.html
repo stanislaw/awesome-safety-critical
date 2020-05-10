@@ -14,3 +14,11 @@
     {{ super() }}
     <script src="{{ pathto('_static/metainfo.js', 1) }}"></script>
 {%- endblock %}
+
+{%- block footer %}
+  {{ super() }}
+
+  <div class="ribbon">
+    <a href="https://github.com/username/repo">Fork me on GitHub</a>
+  </div>
+{%- endblock %}
