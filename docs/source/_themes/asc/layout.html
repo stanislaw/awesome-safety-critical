@@ -10,6 +10,11 @@
 
 {%- extends "asc-classic/layout.html" %}
 
+{%- block extrahead %}
+    {{ super() }}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+{%- endblock %}
+
 {%- block scripts %}
     {{ super() }}
     <script src="{{ pathto('_static/metainfo.js', 1) }}"></script>
