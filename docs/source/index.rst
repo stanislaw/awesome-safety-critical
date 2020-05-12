@@ -119,8 +119,16 @@ Resources
     :keywords: Standards
     :industries: Space, All
     :companies: NASA
+    :standards: NASA
 
     `NASA Technical Standards System <https://standards.nasa.gov/nasa-technical-standards>`_
+
+.. aws-meta::
+    :types: Resource, Report
+    :industries: Space, All
+    :companies: NASA
+
+    `NASA Technical Reports Server <https://ntrs.nasa.gov/search.jsp>`_
 
 Software safety standards
 -------------------------
