@@ -681,6 +681,14 @@ Papers
     ...: all these contribute to the fact that no meaning can be assigned to
     source code unless full details about the build are available...*
 
+.. aws-meta::
+    :types: Paper
+    :keywords: Accidents, Safety
+    :industries: Medical
+
+    `Adverse Events in Robotic Surgery: A Retrospective Study of 14 Years of FDA Data
+    <https://arxiv.org/ftp/arxiv/papers/1507/1507.03518.pdf>`_
+
 Reports
 -------
 
@@ -959,3 +967,12 @@ Press
     sophistication and reliability of the way they do their work. In fact, the
     SEI based it standards in part from watching the on-board shuttle group do
     its work.
+
+.. aws-meta::
+    :types: Press
+    :keywords: Accidents
+    :industries: Medical, Safety
+
+    `We did nothing wrong. Why Software Quality Matters. Case 109 Panama's Cancer Institute
+    <https://web.mit.edu/6.033/www/papers/Nothing_Wrong.pdf>`_
+
