@@ -728,6 +728,14 @@ Reports
     automotive electronic control systems. (Report No. DOT HS 812 285).
     Washington, DC: National Highway Traffic Safety Administration.
 
+.. aws-meta::
+    :types: Report
+    :industries: Aviation
+
+    `Safety Implications of the use of system-on-chip (SoC) on commercial
+    of-the-shelf (COTS) devices in airborne critical applications
+    <https://www.easa.europa.eu/sites/default/files/dfu/EASA_REP_RESEA_2008_1.pdf>`_
+
 Accidents
 ---------
 
