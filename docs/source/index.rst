@@ -286,6 +286,16 @@ Software safety standards
     `NASA Software Assurance Standard
     <https://standards.nasa.gov/standard/nasa/nasa-std-87398>`_
 
+.. aws-meta::
+    :types: Standard
+    :keywords: Software
+    :industries: Space
+    :standards: NASA
+    :companies: NASA
+
+    `NASA NPR-7150.2 Software Engineering Requirements
+    <https://www.product-lifecycle-management.com/download/NPR-7150.2.pdf>`_
+
 Handbooks
 ---------
 
