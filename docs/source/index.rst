@@ -872,6 +872,16 @@ Books
 
 .. aws-meta::
     :types: Book
+    :keywords: Safety, Certification, Safety Standards, Software Quality
+    :languages: C
+    :industries: All
+
+    `Safer C: Developing Software for High-Integrity and Safety-Critical Systems
+    (The McGraw-Hill International Series in Software Engineering)
+    <https://www.leshatton.org/saferc95.html>`_
+
+.. aws-meta::
+    :types: Book
     :industries: All
     :keywords: Agile Development, Safety
 
