@@ -245,7 +245,7 @@ Software safety standards
     :companies: NASA
 
     `NASA-STD-8719.13C, NASA Software Safety Standard
-    <https://standards.nasa.gov/standard/nasa/nasa-std-871913>`_
+    <https://standards.nasa.gov/standard/osma/nasa-gb-871913>`_
 
 .. aws-meta::
     :types: Standard
@@ -274,7 +274,7 @@ Software safety standards
     :companies: NASA
 
     `NASA Software Formal Inspections Standard
-    <https://standards.nasa.gov/standard/nasa/nasa-std-87399>`_
+    <https://standards.nasa.gov/standard/osma/nasa-std-87399>`_
 
 .. aws-meta::
     :types: Standard
@@ -284,7 +284,7 @@ Software safety standards
     :companies: NASA
 
     `NASA Software Assurance Standard
-    <https://standards.nasa.gov/standard/nasa/nasa-std-87398>`_
+    <https://standards.nasa.gov/standard/osma/nasa-std-87398>`_
 
 .. aws-meta::
     :types: Standard
@@ -322,7 +322,7 @@ Handbooks
     :companies: NASA
     :keywords: Safety
 
-    `NASA Software Safety Guidebook <https://standards.nasa.gov/standard/nasa/nasa-gb-871913>`_
+    `NASA Software Safety Guidebook <https://standards.nasa.gov/standard/osma/nasa-gb-871913>`_
 
     NASA's Software Safety Guidebook (pdf file). The handbook complement to the
     Software Safety Standard.
@@ -351,7 +351,7 @@ Handbooks
     :companies: NASA
     :keywords: Safety, Safety Culture
 
-    `NASA Safety Culture Handbook <https://standards.nasa.gov/standard/nasa/nasa-hdbk-870924>`_
+    `NASA Safety Culture Handbook <https://standards.nasa.gov/standard/osma/nasa-hdbk-870924>`_
 
 .. aws-meta::
     :types: Handbook
