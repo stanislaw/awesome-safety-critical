@@ -321,6 +321,15 @@ Handbooks
     :types: Handbook
     :industries: Space
     :companies: NASA
+    :keywords: Safety, Software
+
+    `NASA Software Engineering and Assurance Handbook
+    <https://swehb.nasa.gov/display/SWEHBVC/Book+A.+Introduction>`_
+
+.. aws-meta::
+    :types: Handbook
+    :industries: Space
+    :companies: NASA
     :keywords: Systems Engineering, Safety
 
     `NASA Systems Engineering Handbook <https://www.nasa.gov/connect/ebooks/nasa-systems-engineering-handbook>`_
