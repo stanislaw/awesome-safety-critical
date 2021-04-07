@@ -244,8 +244,8 @@ Software safety standards
     :industries: Space, All
     :companies: NASA
 
-    `NASA-STD-8719.13C, NASA Software Safety Standard
-    <https://standards.nasa.gov/standard/osma/nasa-gb-871913>`_
+    `Software Assurance and Software Safety Standard
+    <https://standards.nasa.gov/file/42993/download?token=S1AfcGsY>`_
 
 .. aws-meta::
     :types: Standard
@@ -274,17 +274,7 @@ Software safety standards
     :companies: NASA
 
     `NASA Software Formal Inspections Standard
-    <https://standards.nasa.gov/standard/osma/nasa-std-87399>`_
-
-.. aws-meta::
-    :types: Standard
-    :keywords: Software Quality
-    :industries: Space
-    :standards: NASA
-    :companies: NASA
-
-    `NASA Software Assurance Standard
-    <https://standards.nasa.gov/standard/osma/nasa-std-87398>`_
+    <https://standards.nasa.gov/sites/default/files/standards/NASA/PUBLISHED/Baseline/nasa-std-8739.9.pdf>`_
 
 .. aws-meta::
     :types: Standard
@@ -322,7 +312,7 @@ Handbooks
     :companies: NASA
     :keywords: Safety
 
-    `NASA Software Safety Guidebook <https://standards.nasa.gov/standard/osma/nasa-gb-871913>`_
+    `NASA Software Safety Guidebook <https://standards.nasa.gov/file/2617/download?token=NIWUBzS6>`_
 
     NASA's Software Safety Guidebook (pdf file). The handbook complement to the
     Software Safety Standard.
@@ -351,7 +341,7 @@ Handbooks
     :companies: NASA
     :keywords: Safety, Safety Culture
 
-    `NASA Safety Culture Handbook <https://standards.nasa.gov/standard/osma/nasa-hdbk-870924>`_
+    `NASA Safety Culture Handbook <https://standards.nasa.gov/file/62652/download?token=kxkRD028>`_
 
 .. aws-meta::
     :types: Handbook
@@ -768,7 +758,7 @@ Accidents
     :industries: Space
     :keywords: Accidents
 
-    `Report on the Loss of the Mars Polar Lander and Deep Space 2 Missions <https://spaceflight.nasa.gov/spacenews/releases/2000/mpl/mpl_report_1.pdf>`_
+    `Report on the Loss of the Mars Polar Lander and Deep Space 2 Missions <https://solarsystem.nasa.gov/system/internal_resources/details/original/3338_mpl_report_1.pdf>`_
 
 .. aws-meta::
     :types: Accident Report
