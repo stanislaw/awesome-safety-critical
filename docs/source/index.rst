@@ -886,6 +886,15 @@ Books
 
     `SafeScrum® – Agile Development of Safety-Critical Software <https://www.springer.com/gp/book/9783319993331>`_
 
+.. aws-meta::
+    :types: Book
+    :industries: Aviation
+    :keywords: Certification
+    :standards: DO-178C
+
+    `Developing Safety-Critical Software: A Practical Guide for Aviation Software and DO-178C Compliance
+    <https://www.springer.com/gp/book/9783319993331>`_
+
 Videos
 ------
 
