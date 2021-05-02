@@ -561,6 +561,15 @@ MC/DC
     comply with regulatory guidance for DO-178B level A software.
 
 .. aws-meta::
+    :types: Report
+    :industries: All
+    :companies: FAA
+    :keywords: MC/DC
+
+    `An Investigation of Three Forms of the Modified Condition Decision Coverage (MCDC) Criterion
+    <http://www.tc.faa.gov/its/worldpac/techrpt/ar01-18.pdf>`_
+
+.. aws-meta::
     :types: Paper
     :industries: All
     :companies: NASA
