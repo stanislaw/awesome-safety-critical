@@ -401,7 +401,7 @@ Handbooks
     :keywords: Agile Development
     :standards: ECSS
 
-    `Space engineering - Agile software development handbook
+    `ECSS-E-HB-40-01A – Agile software development handbook
     <https://ecss.nl/home/ecss-e-hb-40-01a-agile-software-development-handbook-7-april-2020/>`_
 
 Coding guidelines
