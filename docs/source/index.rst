@@ -395,6 +395,14 @@ Handbooks
 
     `FAA System Safety Handbook <https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/risk_management/ss_handbook/>`_
 
+.. aws-meta::
+    :types: Handbook
+    :industries: Space, All
+    :keywords: Agile Development, ECSS
+
+    `Space engineering - Agile software development handbook
+    <https://ecss.nl/home/ecss-e-hb-40-01a-agile-software-development-handbook-7-april-2020/>`_
+
 Coding guidelines
 -----------------
 
