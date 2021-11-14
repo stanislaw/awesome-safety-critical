@@ -673,13 +673,6 @@ Papers
 
 .. aws-meta::
     :types: Paper
-    :industries: All
-    :keywords: Certification
-
-    `The Qualification of Software Development Tools From the DO-178B Certification Perspective <http://static1.1.sqspcdn.com/static/f/702523/9272430/1288904989327/200604-Kornecki.pdf?token=uZElb5dHWyIfQeLIZnOpSN5BG%2FE%3D>`_
-
-.. aws-meta::
-    :types: Paper
     :keywords: Accidents
     :industries: All, Space
     :people: Nancy Leveson
