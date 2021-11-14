@@ -498,11 +498,9 @@ Coding guidelines
 
     also video: `CppCon2014: Bill Emshoff "Using C++ on Mission and Safety Critical Platforms <https://www.youtube.com/watch?v=sRe77Mdna0Y&list=WL&index=2&t=1245s>`_
 
-Topics
-------
 
-Certification
-~~~~~~~~~~~~~
+Topic: Certification
+--------------------
 
 .. aws-meta::
     :types: Presentation
@@ -534,8 +532,8 @@ Certification
     then assigned a TRL rating based on the projects progress. There are nine
     technology readiness levels. TRL 1 is the lowest and TRL 9 is the highest.
 
-Formal verification
-~~~~~~~~~~~~~~~~~~~
+Topic: Formal verification
+--------------------------
 
 .. aws-meta::
     :types: Article
@@ -545,8 +543,8 @@ Formal verification
 
     `Verified Squared: Does Critical Software Deserve Verified Tools? <http://gallium.inria.fr/~xleroy/publi/popl11-invited-talk.pdf>`_
 
-MC/DC
-~~~~~
+Topic: MC/DC
+------------
 
 .. aws-meta::
     :types: Paper
