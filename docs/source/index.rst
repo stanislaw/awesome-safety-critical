@@ -511,6 +511,15 @@ Topic: Requirements
     `ECSS-E-ST-10-06C – Technical requirements specification (6 March 2009)
     <https://ecss.nl/standard/ecss-e-st-10-06c-technical-requirements-specification>`_
 
+.. aws-meta::
+    :types: Handbook
+    :keywords: Requirements
+    :industries: Aviation
+    :standards: DO-178B
+    :companies: FAA
+
+    `Requirements Engineering Management Handbook
+    <https://www.faa.gov/aircraft/air_cert/design_approvals/air_software/media/ar-08-32.pdf>`_
 
 Topic: Certification
 --------------------
