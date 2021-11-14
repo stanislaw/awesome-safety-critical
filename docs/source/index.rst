@@ -498,6 +498,19 @@ Coding guidelines
 
     also video: `CppCon2014: Bill Emshoff "Using C++ on Mission and Safety Critical Platforms <https://www.youtube.com/watch?v=sRe77Mdna0Y&list=WL&index=2&t=1245s>`_
 
+Topic: Requirements
+-------------------
+
+.. aws-meta::
+    :types: Standard
+    :keywords: Requirements
+    :industries: Space
+    :standards: ECSS
+    :companies: ESA
+
+    `ECSS-E-ST-10-06C – Technical requirements specification (6 March 2009)
+    <https://ecss.nl/standard/ecss-e-st-10-06c-technical-requirements-specification>`_
+
 
 Topic: Certification
 --------------------
