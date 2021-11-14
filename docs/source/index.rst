@@ -393,7 +393,10 @@ Handbooks
     :industries: Aviation
     :keywords: Safety, System Safety
 
-    `FAA System Safety Handbook <https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/risk_management/ss_handbook/>`_
+    `FAA System Safety Handbook
+    <https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/risk_management/ss_handbook/>`_
+
+    Includes chapters (each is a PDF): "System Software Safety", "j. Software Safety".
 
 .. aws-meta::
     :types: Handbook
