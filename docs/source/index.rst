@@ -244,8 +244,8 @@ Software safety standards
     :industries: Space, All
     :companies: NASA
 
-    `Software Assurance and Software Safety Standard
-    <https://standards.nasa.gov/file/42993/download?token=S1AfcGsY>`_
+    `NASA-STD-8739.8A - 2020-06-10 - Software Assurance and Software Safety Standard
+    <https://elibrary.gsfc.nasa.gov/_assets/doclibBidder/tech_docs/03.%20Software%20Assurance%20Safety%20Standard.pdf>`_
 
 .. aws-meta::
     :types: Standard
@@ -273,8 +273,8 @@ Software safety standards
     :standards: NASA
     :companies: NASA
 
-    `NASA Software Formal Inspections Standard
-    <https://standards.nasa.gov/sites/default/files/standards/NASA/PUBLISHED/Baseline/nasa-std-8739.9.pdf>`_
+    `NASA-STD-8739.9 - 2018-04-09 - NASA Software Formal Inspections Standard
+    <https://ntrs.nasa.gov/citations/20180004877>`_
 
 .. aws-meta::
     :types: Standard
@@ -312,7 +312,7 @@ Handbooks
     :companies: NASA
     :keywords: Safety
 
-    `NASA Software Safety Guidebook <https://standards.nasa.gov/file/2617/download?token=NIWUBzS6>`_
+    `NASA-GB-8719.13 - 2004-03-31 - NASA Software Safety Guidebook <https://standards.nasa.gov/standard/nasa/nasa-gb-871913>`_
 
     NASA's Software Safety Guidebook (pdf file). The handbook complement to the
     Software Safety Standard.
@@ -342,7 +342,7 @@ Handbooks
     :companies: NASA
     :keywords: Safety, Safety Culture
 
-    `NASA Safety Culture Handbook <https://standards.nasa.gov/file/62652/download?token=kxkRD028>`_
+    `NASA-HDBK-8709.24 - 2015-11-23 - NASA Safety Culture Handbook <https://standards.nasa.gov/standard/nasa/nasa-hdbk-870924>`_
 
 .. aws-meta::
     :types: Handbook
@@ -386,7 +386,7 @@ Handbooks
     :keywords: Safety, System Safety
 
     `FAA System Safety Handbook
-    <https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/risk_management/ss_handbook/>`_
+    <http://everyspec.com/FAA/FAA-HDBK/download.php?spec=FAA_SYSTEM_SAFETY_HDBK_21MAY2008.031358.pdf>`_
 
     Includes chapters (each is a PDF): "System Software Safety", "j. Software Safety".
 
