@@ -330,15 +330,7 @@ Handbooks
     :types: Handbook
     :industries: Space
     :companies: NASA
-    :keywords: Systems Engineering, Safety
-
-    `NASA Systems Engineering Handbook <https://www.nasa.gov/connect/ebooks/nasa-systems-engineering-handbook>`_
-
-.. aws-meta::
-    :types: Handbook
-    :industries: Space
-    :companies: NASA
-    :keywords: Fault Management, Safety
+    :keywords: Fault Management, FDIR, Safety
 
     `NASA Fault Management Handbook <https://www.nasa.gov/pdf/636372main_NASA-HDBK-1002_Draft.pdf>`_
 
@@ -498,6 +490,29 @@ Coding guidelines
 
     also video: `CppCon2014: Bill Emshoff "Using C++ on Mission and Safety Critical Platforms <https://www.youtube.com/watch?v=sRe77Mdna0Y&list=WL&index=2&t=1245s>`_
 
+Topic: Systems Engineering
+--------------------------
+
+.. aws-meta::
+    :types: Handbook
+    :industries: Space
+    :companies: NASA
+    :keywords: Systems Engineering
+
+    `NASA Systems Engineering Handbook <https://www.nasa.gov/connect/ebooks/nasa-systems-engineering-handbook>`_
+
+    `Expanded Guidance for NASA Systems Engineering. Volume 1: Systems Engineering Practices <https://ntrs.nasa.gov/citations/20170007238>`_
+
+    `Expanded Guidance for NASA Systems Engineering. Volume 2: Crosscutting Topics, Special Topics, and Appendices <https://ntrs.nasa.gov/citations/20170007239>`_
+
+.. aws-meta::
+    :types: Handbook
+    :industries: All
+    :companies: DoD
+    :keywords: Systems Engineering
+
+    `SYSTEMS ENGINEERING FUNDAMENTALS by Department of Defense, Systems Management College <https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-885j-aircraft-systems-engineering-fall-2005/readings/sefguide_01_01.pdf>`_
+
 Topic: Requirements
 -------------------
 
@@ -520,6 +535,27 @@ Topic: Requirements
 
     `Requirements Engineering Management Handbook
     <https://www.faa.gov/aircraft/air_cert/design_approvals/air_software/media/ar-08-32.pdf>`_
+
+Topic: RAMS
+-----------
+
+.. aws-meta::
+    :types: Handbook
+    :keywords: RAMS, STPA
+    :industries: All
+    :people: Nancy Leveson, John Thomas
+
+    `STPA handbook
+    <https://psas.scripts.mit.edu/home/get_file.php?name=STPA_handbook.pdf>`_
+
+.. aws-meta::
+    :types: Handbook
+    :keywords: RAMS, CAST, Accidents
+    :industries: All
+    :people: Nancy Leveson
+
+    `CAST HANDBOOK: How to Learn More from Incidents and Accidents
+    <http://sunnyday.mit.edu/CAST-Handbook.pdf>`_
 
 Topic: Certification
 --------------------
