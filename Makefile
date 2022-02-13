@@ -6,7 +6,7 @@ help: ## Show this help message.
 
 check_dead_links: ## Run awesome_bot to check for dead links in docs/index.rst
 	python3 -m venv .venv && \
-		source .venv/bin/activate && \
+		. .venv/bin/activate && \
 		pip install requests && \
 		python3 link_health.py docs/source/index.rst
 
