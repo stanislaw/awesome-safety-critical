@@ -561,14 +561,6 @@ Topic: Certification
 --------------------
 
 .. aws-meta::
-    :types: Presentation
-    :keywords: Certification
-    :industries: All
-    :companies: AdaCore
-
-    `Introduction to Certification by Quentin Ochem, AdaCore <http://idl.univ-brest.fr/etr11/EXPOSES%20ETR%202011/mercredi%20AM/etr11-ochem.pptx>`_
-
-.. aws-meta::
     :types: Article
     :industries: All
     :keywords: Certification
@@ -767,15 +759,6 @@ Papers
 
     `Adverse Events in Robotic Surgery: A Retrospective Study of 14 Years of FDA Data
     <https://arxiv.org/ftp/arxiv/papers/1507/1507.03518.pdf>`_
-
-.. aws-meta::
-    :types: Paper
-    :keywords: Certification
-    :industries: Aviation
-    :standards: DO-178C
-
-    `A Practical Methodology for DO-178C Data and Control Coupling Objective Compliance
-    <https://csce.ucmss.com/cr/books/2018/LFS/CSREA2018/SER4278.pdf>`_
 
 Reports
 -------
