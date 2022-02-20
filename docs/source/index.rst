@@ -245,7 +245,7 @@ Software safety standards
     :companies: NASA
 
     `NASA-STD-8739.8A - 2020-06-10 - Software Assurance and Software Safety Standard
-    <https://elibrary.gsfc.nasa.gov/_assets/doclibBidder/tech_docs/03.%20Software%20Assurance%20Safety%20Standard.pdf>`_
+    <http://everyspec.com/NASA/NASA-NASA-STD/NASA-STD-8739x8A_56649/>`_
 
 .. aws-meta::
     :types: Standard
