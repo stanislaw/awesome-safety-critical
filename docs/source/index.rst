@@ -780,6 +780,14 @@ Reports
 
 .. aws-meta::
     :types: Report
+    :industries: Nuclear
+
+    `Software Important to Safety in
+Nuclear Power Plants
+    <https://inis.iaea.org/collection/NCLCollectionStore/_Public/25/062/25062186.pdf>`_
+
+.. aws-meta::
+    :types: Report
     :industries: Automotive
     :keywords: Safety Standards
 
