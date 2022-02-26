@@ -782,9 +782,7 @@ Reports
     :types: Report
     :industries: Nuclear
 
-    `Software Important to Safety in
-Nuclear Power Plants
-    <https://inis.iaea.org/collection/NCLCollectionStore/_Public/25/062/25062186.pdf>`_
+    `Software Important to Safety in Nuclear Power Plants <https://inis.iaea.org/collection/NCLCollectionStore/_Public/25/062/25062186.pdf>`_
 
 .. aws-meta::
     :types: Report
