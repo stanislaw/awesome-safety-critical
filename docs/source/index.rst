@@ -760,6 +760,22 @@ Papers
     `Adverse Events in Robotic Surgery: A Retrospective Study of 14 Years of FDA Data
     <https://arxiv.org/ftp/arxiv/papers/1507/1507.03518.pdf>`_
 
+.. aws-meta::
+    :types: Paper
+    :keywords: Software, Safety
+    :industries: Railways
+
+    `EN-50128 certification-oriented design of a safety-critical hard real-time kernel
+    <https://www.academia.edu/42661525/EN_50128_certification_oriented_design_of_a_safety_critical_hard_real_time_kernel>`_
+
+.. aws-meta::
+    :types: Paper
+    :keywords: Safety, Conformance
+    :industries: Railways
+
+    `Achieving compliance with EN 50128
+    <https://www.railjournal.com/in_depth/white-paper-achieving-compliance-with-en-50128/>`_
+    
 Reports
 -------
 
@@ -881,7 +897,7 @@ Books
     :types: Book
     :keywords: Safety, Functional Safety
     :standards: ISO 26262
-    :industries: All
+    :industries: Automotive
 
     `Automotive System Safety: Critical Considerations for Engineering and Effective Management <https://www.wiley.com/en-us/Automotive+System+Safety%3A+Critical+Considerations+for+Engineering+and+Effective+Management-p-9781119579700>`_
 
@@ -889,10 +905,18 @@ Books
     :types: Book
     :keywords: Safety, Functional Safety
     :standards: ISO 26262
-    :industries: All
+    :industries: Automotive
 
     `Functional Safety for Road Vehicles <https://www.springer.com/de/book/9783319333601>`_
 
+.. aws-meta::
+    :types: Book
+    :keywords: Safety, Functional Safety
+    :standards: ISO 62279 / EN 50128
+    :industries: Railways
+
+    `CENELEC 50128 and IEC 62279 Standards <https://www.wiley.com/en-us/CENELEC+50128+and+IEC+62279+Standards-p-9781848216341>`_
+    
 .. aws-meta::
     :types: Book
     :keywords: Safety, System Safety
