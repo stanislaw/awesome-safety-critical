@@ -160,10 +160,10 @@ Software safety standards
 
 .. aws-meta::
     :types: Standard
-    :industries: Automotive
+    :industries: Railways
     :keywords: Safety, Functional Safety
 
-    IEC 62279
+    IEC 62279/EN 50128 <https://second.wiki/wiki/en_50128>
 
     IEC 62279 provides a specific interpretation of IEC 61508 for railway
     applications. It is intended to cover the development of software for
