@@ -200,6 +200,10 @@ Software safety standards
     acceptable means, but not the only means, for showing compliance with the
     applicable airworthiness regulations for the software aspects of
     airborne systems and equipment certification." (Wikipedia)
+    
+    DO-278, Software Integrity Assurance Considerations for Communication, 
+    Navigation, Surveillance and Air Traffic Management (CNS/ATM) Systems is the
+    equivalent counterpart standard for aviation non-airborne systems.
 
 .. aws-meta::
     :types: Standard
