@@ -342,7 +342,7 @@ Handbooks
     :companies: NASA
     :keywords: Safety, Safety Culture
 
-    `NASA-HDBK-8709.24 - 2015-11-23 - NASA Safety Culture Handbook <https://standards.nasa.gov/standard/nasa/nasa-hdbk-870924>`_
+    `NASA-HDBK-8709.24 - 2015-11-23 - NASA Safety Culture Handbook <https://standards.nasa.gov/sites/default/files/standards/NASA/Baseline/1/nasa-hdbk-870924_with_change_1.pdf>`_
 
 .. aws-meta::
     :types: Handbook
