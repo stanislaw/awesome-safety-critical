@@ -847,6 +847,18 @@ Reports
     of-the-shelf (COTS) devices in airborne critical applications
     <https://www.easa.europa.eu/sites/default/files/dfu/EASA_REP_RESEA_2008_1.pdf>`_
 
+.. aws-meta::
+    :types: Report
+    :keywords: Complexity, Software
+    :industries: Space
+    :companies: NASA
+
+    `NASA Study on Flight Software Complexity (summary)
+    <https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.711.2976&rep=rep1&type=pdf>`_
+
+    `NASA Study on Flight Software Complexity (full report)
+    <https://www.nasa.gov/sites/default/files/418878main_FSWC_Final_Report.pdf>`_
+
 Accidents
 ---------
 
