@@ -558,11 +558,28 @@ Topic: Fault management
     :types: Handbook
     :industries: Space
     :companies: NASA
-    :keywords: Fault Management, FDIR, Safety
+    :keywords: Fault Management, FDIR
 
     `NASA Fault Management Handbook <https://www.nasa.gov/pdf/636372main_NASA-HDBK-1002_Draft.pdf>`_
 
     `The Development of NASA’s Fault Management Handbook (Slides) <https://indico.esa.int/event/62/contributions/2777/attachments/2297/2653/1125_-_the-development-of-nasas-fault-management-handbook_Presentation.pdf>`_
+
+.. aws-meta::
+    :types: Handbook
+    :industries: Space
+    :companies: ESA
+    :keywords: Fault Management, FDIR
+
+    `SAVOIR FDIR handbook <https://savoir.estec.esa.int/SAVOIRDocuments.htm>`_
+
+.. aws-meta::
+    :types: Paper
+    :industries: Space
+    :companies: NASA, JPL
+    :keywords: Fault Management, FDIR
+
+    `GN&C Fault Protection Fundamentals
+    <https://trs.jpl.nasa.gov/bitstream/handle/2014/41696/08-0125.pdf?sequence=1>`_
 
 Topic: Certification
 --------------------
