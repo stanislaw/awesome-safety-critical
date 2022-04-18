@@ -200,8 +200,8 @@ Software safety standards
     acceptable means, but not the only means, for showing compliance with the
     applicable airworthiness regulations for the software aspects of
     airborne systems and equipment certification." (Wikipedia)
-    
-    DO-278, Software Integrity Assurance Considerations for Communication, 
+
+    DO-278, Software Integrity Assurance Considerations for Communication,
     Navigation, Surveillance and Air Traffic Management (CNS/ATM) Systems is the
     equivalent counterpart standard for aviation non-airborne systems.
 
@@ -329,16 +329,6 @@ Handbooks
 
     `NASA Software Engineering and Assurance Handbook
     <https://swehb.nasa.gov/display/SWEHBVC/Book+A.+Introduction>`_
-
-.. aws-meta::
-    :types: Handbook
-    :industries: Space
-    :companies: NASA
-    :keywords: Fault Management, FDIR, Safety
-
-    `NASA Fault Management Handbook <https://www.nasa.gov/pdf/636372main_NASA-HDBK-1002_Draft.pdf>`_
-
-    `The Development of NASA’s Fault Management Handbook (Slides) <https://indico.esa.int/event/62/contributions/2777/attachments/2297/2653/1125_-_the-development-of-nasas-fault-management-handbook_Presentation.pdf>`_
 
 .. aws-meta::
     :types: Handbook
@@ -561,6 +551,19 @@ Topic: RAMS
     `CAST HANDBOOK: How to Learn More from Incidents and Accidents
     <http://sunnyday.mit.edu/CAST-Handbook.pdf>`_
 
+Topic: Fault management
+-----------------------
+
+.. aws-meta::
+    :types: Handbook
+    :industries: Space
+    :companies: NASA
+    :keywords: Fault Management, FDIR, Safety
+
+    `NASA Fault Management Handbook <https://www.nasa.gov/pdf/636372main_NASA-HDBK-1002_Draft.pdf>`_
+
+    `The Development of NASA’s Fault Management Handbook (Slides) <https://indico.esa.int/event/62/contributions/2777/attachments/2297/2653/1125_-_the-development-of-nasas-fault-management-handbook_Presentation.pdf>`_
+
 Topic: Certification
 --------------------
 
@@ -779,7 +782,7 @@ Papers
 
     `Achieving compliance with EN 50128
     <https://www.railjournal.com/in_depth/white-paper-achieving-compliance-with-en-50128/>`_
-    
+
 Reports
 -------
 
@@ -920,7 +923,7 @@ Books
     :industries: Railways
 
     `CENELEC 50128 and IEC 62279 Standards <https://www.wiley.com/en-us/CENELEC+50128+and+IEC+62279+Standards-p-9781848216341>`_
-    
+
 .. aws-meta::
     :types: Book
     :keywords: Safety, System Safety
