@@ -965,6 +965,16 @@ Books
 
 .. aws-meta::
     :types: Book
+    :keywords: Embedded, Safety, Software, Software Safety Standards, Standards, Certification
+    :industries: All
+    :people: Chris Hobbs
+
+    Embedded Software Development for Safety-Critical Systems by Chris Hobbs
+
+        Available on Amazon and many other book shops.
+
+.. aws-meta::
+    :types: Book
     :industries: All
     :keywords: Safety
 
