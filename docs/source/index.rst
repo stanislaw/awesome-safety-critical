@@ -130,6 +130,13 @@ Resources
 
     `NASA Technical Reports Server <https://ntrs.nasa.gov/search.jsp>`_
 
+.. aws-meta::
+    :types: Resource
+    :industries: All
+    :people: Nancy Leveson
+
+    `Nancy Leveson's Home Page at MIT <http://sunnyday.mit.edu/>`_
+
 Software safety standards
 -------------------------
 

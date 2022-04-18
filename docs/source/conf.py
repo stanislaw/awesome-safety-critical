@@ -19,7 +19,7 @@ sys.path.append(os.path.abspath("./"))
 # -- Project information -----------------------------------------------------
 
 project = 'awesome-safety-critical'
-copyright = '2020, Stanislav Pankevich'
+copyright = '2022, Stanislav Pankevich'
 author = 'Stanislav Pankevich'
 
 # The full version, including alpha/beta/rc tags
