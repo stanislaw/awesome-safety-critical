@@ -507,6 +507,13 @@ Topic: Systems Engineering
 
     `SYSTEMS ENGINEERING FUNDAMENTALS by Department of Defense, Systems Management College <https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-885j-aircraft-systems-engineering-fall-2005/readings/sefguide_01_01.pdf>`_
 
+.. aws-meta::
+    :types: Handbook
+    :industries: All
+    :keywords: Systems Engineering
+
+    `Guide to the Systems Engineering Body of Knowledge (SEBoK) <https://www.sebokwiki.org>`_
+
 Topic: Requirements
 -------------------
 
