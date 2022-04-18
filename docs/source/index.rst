@@ -770,12 +770,6 @@ Papers
 
     `That’s C, baby. C! <https://www.bugseng.com/filebrowser/download/38>`_
 
-    *...The problem is due to the fact that the semantics of the C programming
-    language is not fully defined: non-definite behavior, predefined macros,
-    different library implementations, peculiarities of the translation process,
-    ...: all these contribute to the fact that no meaning can be assigned to
-    source code unless full details about the build are available...*
-
 .. aws-meta::
     :types: Paper
     :keywords: Accidents, Safety
@@ -949,6 +943,25 @@ Books
 
     `Engineering a Safer World. Systems Thinking Applied to Safety
     <https://mitpress.mit.edu/books/engineering-safer-world>`_
+
+.. aws-meta::
+    :types: Book
+    :keywords: Safety, System Safety
+    :industries: All
+    :people: Nancy Leveson
+
+    `Safeware: System Safety and Computers
+    <http://sunnyday.mit.edu/book.html>`_
+
+        Contents: This book examines past accidents and what is currently known
+        about building safe electromechanical systems to see what lessons can be
+        applied to new computer-controlled systems.  One lesson is that most
+        accidents are not the result of unknown scientific principles but rather
+        of a failure to apply well-known, standard engineering practices. A
+        second lesson is that accidents will not be prevented by technological
+        fixes alone, but will require control of all aspects of the development
+        and operation of the system.  The features of a methodology for building
+        safety-critical systems are outlined.
 
 .. aws-meta::
     :types: Book
