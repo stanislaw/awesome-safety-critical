@@ -537,6 +537,9 @@ Topic: Requirements
     `Requirements Engineering Management Handbook
     <https://www.faa.gov/aircraft/air_cert/design_approvals/air_software/media/ar-08-32.pdf>`_
 
+    Related full report: `Requirements Engineering Management Findings Report
+    <https://www.faa.gov/aircraft/air_cert/design_approvals/air_software/media/ar-08-34.pdf>`_
+
 Topic: RAMS
 -----------
 
