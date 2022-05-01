@@ -508,7 +508,7 @@ Topic: Systems Engineering
 
 .. aws-meta::
     :types: Handbook
-    :industries: All
+    :industries: All, Defense
     :companies: DoD
     :keywords: Systems Engineering
 
@@ -546,6 +546,14 @@ Topic: Requirements
 
     Related full report: `Requirements Engineering Management Findings Report
     <https://www.faa.gov/aircraft/air_cert/design_approvals/air_software/media/ar-08-34.pdf>`_
+
+.. aws-meta::
+    :types: Paper
+    :keywords: Requirements
+    :industries: Defense, All
+
+    `The FAR Approach – Functional Analysis/Allocation and Requirements Flowdown Using Use Case Realizations
+    <https://www.acqnotes.com/Attachments/INCOSE%20White%20Paper%20-%20Functional%20Analaysis%20and%20Allocation.pdf>`_
 
 Topic: RAMS
 -----------
