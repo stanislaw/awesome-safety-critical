@@ -755,7 +755,7 @@ Papers
     :types: Paper
     :industries: All
 
-    `Why Do Computers Stop and What Can Be Done About It? <http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf>`_
+    `Why Do Computers Stop and What Can Be Done About It? <https://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf>`_
 
 .. aws-meta::
     :types: Paper
@@ -869,7 +869,7 @@ Reports
     :companies: NASA
 
     `NASA Study on Flight Software Complexity (summary)
-    <https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.711.2976&rep=rep1&type=pdf>`_
+    <https://github.com/stanislaw/awesome-safety-critical/blob/master/Backup/10.1.1.711.2976.pdf>`_
 
     `NASA Study on Flight Software Complexity (full report)
     <https://www.nasa.gov/sites/default/files/418878main_FSWC_Final_Report.pdf>`_
