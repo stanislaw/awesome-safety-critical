@@ -9,7 +9,7 @@ from typing import Union, List
 
 import requests
 
-__version__ = "0.0.3"
+__version__ = "0.0.4"
 
 
 class Parallelizer:
@@ -106,8 +106,9 @@ class Status(Enum):
     HTTP_4xx = 2
     HTTP_5xx = 3
     CONNECTION_ERROR = 4
-    CONNECT_TIMEOUT = 5
-    READ_TIMEOUT = 6
+    SSL_ERROR = 5
+    CONNECT_TIMEOUT = 6
+    READ_TIMEOUT = 7
 
 
 class ResponseData:
@@ -129,6 +130,8 @@ class ResponseData:
 
     @staticmethod
     def create_from_exception(link: str, exception: Exception) -> "ResponseData":
+        if isinstance(exception, requests.exceptions.SSLError):
+            return ResponseData(link, Status.SSL_ERROR, str(exception))
         if isinstance(exception, requests.exceptions.ReadTimeout):
             return ResponseData(link, Status.READ_TIMEOUT, str(exception))
         if isinstance(exception, requests.exceptions.ConnectTimeout):
@@ -150,6 +153,9 @@ class ResponseData:
             or self.status == Status.SUCCESS_READ_TIMEOUT_EXPECTED
         )
 
+    def is_ssl_error(self):
+        return self.status == Status.SSL_ERROR
+
     def get_error_message(self):
         payload_string = str(self.payload) if self.payload is not None else ""
         return " ".join([str(self.status), payload_string])
@@ -169,10 +175,13 @@ def head_request(link) -> ResponseData:
         return ResponseData.create_from_exception(link, exception)
 
 
-def get_request(link) -> ResponseData:
+def get_request(*, link, verify: bool) -> ResponseData:
     try:
         response = requests.get(
-            link, timeout=(CONNECT_TIMEOUT, READ_TIMEOUT), headers=HEADERS
+            link,
+            timeout=(CONNECT_TIMEOUT, READ_TIMEOUT),
+            headers=HEADERS,
+            verify=verify,
         )
         return ResponseData.create_from_response(link, response)
     except requests.exceptions.ReadTimeout as exception:
@@ -189,9 +198,17 @@ def check_link(link) -> ResponseData:
 
     print(f"\nHEAD {link} [{head_response.get_error_message()}]")
 
-    get_response = get_request(link)
+    get_response = get_request(link=link, verify=True)
     if get_response.is_success():
         return get_response
+
+    if get_response.is_ssl_error():
+        print(f"\nGET {link} [{get_response.get_error_message()}]", end="\n")
+        print(f"\nGET {link} – Trying again without SSL verification...", end="\n")
+
+        get_response = get_request(link=link, verify=False)
+        if get_response.is_success():
+            return get_response
 
     print(f"\nGET {link} [{get_response.get_error_message()}]", end="\n")
 
