@@ -755,7 +755,7 @@ Papers
     :types: Paper
     :industries: All
 
-    `Why Do Computers Stop and What Can Be Done About It? <https://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf>`_
+    `Why Do Computers Stop and What Can Be Done About It? <https://github.com/stanislaw/awesome-safety-critical/blob/master/Backup/TR-85.7.pdf>`_
 
 .. aws-meta::
     :types: Paper
