@@ -32,8 +32,8 @@ Tags
 
 .. aws-meta-summary::
 
-Friendly lists
---------------
+Friendly resources
+------------------
 
 .. aws-meta::
     :types: List
@@ -83,6 +83,12 @@ Friendly lists
     :people: Phil Koopman
 
     `Computer-Based System Safety Essential Reading List <https://safeautonomy.blogspot.com/p/safe-autonomy.html>`_
+
+.. aws-meta::
+    :types: List
+    :keywords: Safety
+
+    `Safety-Critical Systems Club Publications <https://scsc.uk/publications>`_
 
 Resources
 ---------
