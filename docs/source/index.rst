@@ -911,7 +911,7 @@ Accidents
     :keywords: Accidents
     :people: Nancy Leveson
 
-    `An Investigation of the Therac-25 Accidents <https://www.cs.nmt.edu/~cse382/reading/therac-25.pdf>`_ (original paper),
+    `An Investigation of the Therac-25 Accidents <https://web.stanford.edu/class/cs240/old/sp2014/readings/therac-25.pdf>`_ (original paper),
     `Medical Devices: The Therac-25 (updated version of the paper) <http://sunnyday.mit.edu/papers/therac.pdf>`_,
     `Killed by a Machine: The Therac-25 <https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25>`_ (article)
 
