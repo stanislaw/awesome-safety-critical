@@ -8,3 +8,5 @@ exceptions:
   - url: https://www.fastcompany.com/28121/they-write-right-stuff
     code: HTTP_403
 
+  - url: https://www.osti.gov/scitech/servlets/purl/184397
+    code: SSL_ERROR
