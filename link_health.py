@@ -17,6 +17,11 @@ This is why the Link Health still uses basic `requests` API.
 Examples:
 
 - https://www.fastcompany.com/28121/they-write-right-stuff
+
+2) Some websites open in a browser but don't give any answer when asked by
+this script. The result is:
+'Connection aborted.', RemoteDisconnected('Remote end closed connection without
+response').
 """
 
 import argparse
@@ -31,7 +36,7 @@ from typing import Union, List
 
 import requests
 
-__version__ = "0.0.5"
+__version__ = "0.0.6"
 
 
 class Parallelizer:
@@ -115,44 +120,64 @@ class NullParallelizer:
 
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
 }
 
 CONNECT_TIMEOUT = 5
 READ_TIMEOUT = 5
 
 
-class Status(Enum):
-    SUCCESS = 0
-    SUCCESS_READ_TIMEOUT_EXPECTED = 1
-    HTTP_4xx = 2
-    HTTP_5xx = 3
-    CONNECTION_ERROR = 4
-    SSL_ERROR = 5
-    CONNECT_TIMEOUT = 6
-    READ_TIMEOUT = 7
+class Status(str, Enum):
+    SUCCESS = "SUCCESS"
+    SUCCESS_READ_TIMEOUT_EXPECTED = "SUCCESS_READ_TIMEOUT_EXPECTED"
+    HTTP_4xx = "HTTP_4xx"
+    HTTP_403 = "HTTP_403"
+    HTTP_5xx = "HTTP_5xx"
+    CONNECTION_ERROR = "CONNECTION_ERROR"
+    SSL_ERROR = "SSL_ERROR"
+    CONNECT_TIMEOUT = "CONNECT_TIMEOUT"
+    READ_TIMEOUT = "READ_TIMEOUT"
+
+    @staticmethod
+    def all():
+        return list(map(lambda c: c.value, Status))
 
 
 class ResponseData:
-    def __init__(self, link: str, status: Status, payload: Union[None, int, str]):
+    def __init__(
+        self, link: str, status: Status, payload: Union[None, int, str]
+    ):
         self.link: str = link
         self.status: Status = status
         self.payload: Union[None, int, str] = payload
         self.expected = False
 
+    def __str__(self):
+        return str(self.__dict__)
+
+    def __repr__(self):
+        return self.__str__()
+
     @staticmethod
-    def create_from_response(link: str, response: requests.Response) -> "ResponseData":
+    def create_from_response(
+        link: str, response: requests.Response
+    ) -> "ResponseData":
         if 200 <= response.status_code <= 400:
-            return ResponseData(link, Status.SUCCESS, response.status_code)
+            return ResponseData(link, Status.SUCCESS, None)
         if 400 <= response.status_code < 500:
-            return ResponseData(link, Status.HTTP_4xx, response.status_code)
+            if response.status_code == 403:
+                return ResponseData(link, Status.HTTP_403, None)
+            return ResponseData(link, Status.HTTP_4xx, None)
         if 500 <= response.status_code < 600:
-            return ResponseData(link, Status.HTTP_5xx, response.status_code)
+            return ResponseData(link, Status.HTTP_5xx, None)
         else:
             raise NotImplementedError(response)
 
     @staticmethod
-    def create_from_exception(link: str, exception: Exception) -> "ResponseData":
+    def create_from_exception(
+        link: str, exception: Exception
+    ) -> "ResponseData":
         if isinstance(exception, requests.exceptions.SSLError):
             return ResponseData(link, Status.SSL_ERROR, str(exception))
         if isinstance(exception, requests.exceptions.ReadTimeout):
@@ -168,7 +193,9 @@ class ResponseData:
         link: str, exception: Exception
     ) -> "ResponseData":
         assert isinstance(exception, requests.exceptions.ReadTimeout)
-        return ResponseData(link, Status.SUCCESS_READ_TIMEOUT_EXPECTED, str(exception))
+        return ResponseData(
+            link, Status.SUCCESS_READ_TIMEOUT_EXPECTED, str(exception)
+        )
 
     def is_success(self):
         return (
@@ -227,9 +254,10 @@ def check_link(link_and_exceptions) -> ResponseData:
 
     if link in exceptions:
         code = exceptions[link]
-        if head_response.payload == code:
+        if head_response.status.value == code:
             print(
-                f"\nHEAD {link} -> Known exception: [{head_response.get_error_message()}]"
+                f"\nHEAD {link} -> Known exception: "
+                f"[{head_response.get_error_message()}]"
             )
             head_response.promote_to_expected()
             return head_response
@@ -242,7 +270,9 @@ def check_link(link_and_exceptions) -> ResponseData:
 
     if get_response.is_ssl_error():
         print(f"\nGET {link} [{get_response.get_error_message()}]", end="\n")
-        print(f"\nGET {link} – Trying again without SSL verification...", end="\n")
+        print(
+            f"\nGET {link} – Trying again without SSL verification...", end="\n"
+        )
 
         get_response = get_request(link=link, verify=False)
         if get_response.is_success():
@@ -254,7 +284,7 @@ def check_link(link_and_exceptions) -> ResponseData:
 
 
 def find_links(input_content):
-    return re.findall(rf"(?P<url>https?://[^\s><]+[^\.\s><])", input_content)
+    return re.findall(r"(?P<url>https?://[^\s><]+[^.\s><])", input_content)
 
 
 def main():
@@ -281,10 +311,17 @@ def main():
                 sys.exit(1)
         if "exceptions" in config_dict:
             exceptions_dict = config_dict["exceptions"]
+            all_codes = Status.all()
             for exception_dict in exceptions_dict:
                 assert "url" in exception_dict
                 assert "code" in exception_dict
-                exceptions[exception_dict["url"]] = exception_dict["code"]
+                exception_code = exception_dict["code"]
+                if exception_code not in all_codes:
+                    raise Exception(
+                        f"Unknown expected error code: {exception_code}. "
+                        f"Valid codes: {all_codes}"
+                    )
+                exceptions[exception_dict["url"]] = exception_code
 
     links = find_links(input_content)
 
@@ -303,7 +340,8 @@ def main():
     print("\n")
     for expected_failed_response in expected_failed_responses:
         print(
-            f"Expectedly failed link: {expected_failed_response.get_error_message_with_link()}"
+            f"Expectedly failed link: "
+            f"{expected_failed_response.get_error_message_with_link()}"
         )
     for failed_response in failed_responses:
         print(f"Failed link: {failed_response.get_error_message_with_link()}")

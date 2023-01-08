@@ -432,7 +432,8 @@ Coding guidelines
     :languages: C++
     :industries: All, Automotive
 
-    `AUTOSAR C++14: Guidelines for the use of the C++14 language in critical and safety-related systems <https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-03/AUTOSAR_RS_CPP14Guidelines.pdf>`_
+    `AUTOSAR C++14: Guidelines for the use of the C++14 language in critical and safety-related systems
+    <https://www.autosar.org/fileadmin/standards/adaptive/18-03/AUTOSAR_RS_CPP14Guidelines.pdf>`_
 
 .. aws-meta::
     :types: Coding guidelines
@@ -882,13 +883,6 @@ Reports
 
 Accidents
 ---------
-
-.. aws-meta::
-    :types: Resource
-    :industries: All
-    :keywords: Accidents
-
-    `Failure Knowledge Database <http://www.shippai.org/fkd/en/index.html>`_
 
 .. aws-meta::
     :types: Accident Report

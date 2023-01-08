@@ -1,5 +1,10 @@
 exceptions:
-  - url: https://www.fastcompany.com/28121/they-write-right-stuff
-    code: 403
+  - url: https://www.bugseng.com/filebrowser/download/32
+    code: CONNECTION_ERROR
 
+  - url: https://www.bugseng.com/filebrowser/download/38
+    code: CONNECTION_ERROR
+
+  - url: https://www.fastcompany.com/28121/they-write-right-stuff
+    code: HTTP_403
 
