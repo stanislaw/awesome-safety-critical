@@ -10,3 +10,7 @@ exceptions:
 
   - url: https://www.osti.gov/scitech/servlets/purl/184397
     code: SSL_ERROR
+
+  # This resource has been quite unstable. Check this after some time.
+  - url: https://swehb.nasa.gov/display/SWEHBVC/Book+A.+Introduction
+    code: HTTP_5xx

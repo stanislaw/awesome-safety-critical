@@ -433,7 +433,7 @@ Coding guidelines
     :industries: All, Automotive
 
     `AUTOSAR C++14: Guidelines for the use of the C++14 language in critical and safety-related systems
-    <https://www.autosar.org/fileadmin/standards/adaptive/18-03/AUTOSAR_RS_CPP14Guidelines.pdf>`_
+    <https://www.autosar.org/fileadmin/standards/R22-11/AP/AUTOSAR_RS_CPP14Guidelines.pdf>`_
 
 .. aws-meta::
     :types: Coding guidelines
