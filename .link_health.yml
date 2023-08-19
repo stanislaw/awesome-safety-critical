@@ -14,3 +14,9 @@ exceptions:
   # This resource has been quite unstable. Check this after some time.
   - url: https://swehb.nasa.gov/display/SWEHBVC/Book+A.+Introduction
     code: HTTP_5xx
+
+  # Failed link: Status.SSL_ERROR
+  # HTTPSConnectionPool(host='inis.iaea.org', port=443)
+  # The link opens itself in the browser though.
+  - url: https://inis.iaea.org/collection/NCLCollectionStore/_Public/25/062/25062186.pdf
+    code: SSL_ERROR
