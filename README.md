@@ -1,6 +1,6 @@
 # awesome-safety-critical
 
-[![Build Status](https://travis-ci.org/stanislaw/awesome-safety-critical.svg?branch=master)](https://travis-ci.org/stanislaw/awesome-safety-critical)
+[![Check status](https://github.com/stanislaw/awesome-safety-critical/actions/workflows/ci.yml/badge.svg)](https://github.com/stanislaw/awesome-safety-critical/actions/workflows/ci.yml)
 
 This is a list of resources about programming practices for writing
 safety-critical software.
