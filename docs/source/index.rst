@@ -555,6 +555,15 @@ Topic: Requirements
     <https://www.faa.gov/aircraft/air_cert/design_approvals/air_software/media/ar-08-34.pdf>`_
 
 .. aws-meta::
+    :types: Handbook
+    :keywords: Requirements
+    :industries: All
+    :companies: INCOSE
+
+    `Guide to Writing Requirements (1 Jul 2023)
+    <https://www.incose.org/docs/default-source/working-groups/requirements-wg/gtwr/incose_rwg_gtwr_v4_040423_final_drafts.pdf?sfvrsn=5c877fc7_2>`_
+
+.. aws-meta::
     :types: Paper
     :keywords: Requirements
     :industries: Defense, All
