@@ -8,8 +8,6 @@
 awesome-safety-critical
 =======================
 
-.. image:: https://travis-ci.org/stanislaw/awesome-safety-critical.svg?branch=master
-
 This is a list of resources about programming practices for writing
 safety-critical software.
 
