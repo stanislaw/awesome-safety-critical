@@ -592,7 +592,7 @@ Topic: Fault management
     :companies: NASA
     :keywords: Fault Management, FDIR
 
-    `NASA Fault Management Handbook <https://www.nasa.gov/pdf/636372main_NASA-HDBK-1002_Draft.pdf>`_
+    `NASA Fault Management Handbook <https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/636372main_NASA-HDBK-1002_Draft.pdf>`_
 
     `The Development of NASA’s Fault Management Handbook (Slides) <https://indico.esa.int/event/62/contributions/2777/attachments/2297/2653/1125_-_the-development-of-nasas-fault-management-handbook_Presentation.pdf>`_
 
@@ -630,7 +630,7 @@ Topic: Certification
     :keywords: Certification, Technology Readiness Level
 
     `Technology Readiness Level, ESA <http://sci.esa.int/sci-ft/50124-technology-readiness-level>`_,
-    `Technology Readiness Level, NASA <https://www.nasa.gov/directorates/heo/scan/engineering/technology/txt_accordion1.html>`_
+    `Technology Readiness Level, NASA <https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels>`_
 
     Technology Readiness Levels (TRL) are a type of measurement system used to
     assess the maturity level of a particular technology. Each technology
@@ -824,7 +824,7 @@ Papers
     :industries: Railways
 
     `Achieving compliance with EN 50128
-    <https://www.railjournal.com/in_depth/white-paper-achieving-compliance-with-en-50128/>`_
+    <https://www.railjournal.com/in_depth/white-paper-achieving-compliance-with-en-50128>`_
 
 Reports
 -------
