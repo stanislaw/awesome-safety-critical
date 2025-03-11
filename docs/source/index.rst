@@ -405,7 +405,7 @@ Coding guidelines
     :industries: All
 
 
-    `MISRA guidelines <https://www.misra.org.uk/Publications/tabid/57/Default.aspx>`_
+    `MISRA guidelines <https://misra.org.uk/>`_
 
     (MISRA C:2012) Guidelines for the Use of the C Language in Critical Systems,
 
@@ -473,10 +473,7 @@ Coding guidelines
     :languages: C++
     :industries: All
 
-    `SEI CERT C++ Coding Standard <https://www.securecoding.cert.org/confluence/display/cplusplus>`_
-
-    SEI CERT C and C++ Coding Standards are now freely available in pdf format:
-    `C++ Coding Standard <http://www.cert.org/downloads/secure-coding/assets/sei-cert-cpp-coding-standard-2016-v01.pdf>`_
+    `SEI CERT C and C++ Coding Standards <https://insights.sei.cmu.edu/library/sei-cert-c-and-c-coding-standards/>`_
 
 .. aws-meta::
     :types: Coding guidelines
@@ -538,10 +535,10 @@ Topic: Requirements
     :companies: FAA
 
     `Requirements Engineering Management Handbook
-    <https://www.faa.gov/aircraft/air_cert/design_approvals/air_software/media/ar-08-32.pdf>`_
+    <https://www.faa.gov/sites/faa.gov/files/aircraft/air_cert/design_approvals/air_software/AR-08-32.pdf>`_
 
     Related full report: `Requirements Engineering Management Findings Report
-    <https://www.faa.gov/aircraft/air_cert/design_approvals/air_software/media/ar-08-34.pdf>`_
+    <https://www.faa.gov/sites/faa.gov/files/aircraft/air_cert/design_approvals/air_software/AR-08-34.pdf>`_
 
 .. aws-meta::
     :types: Handbook
@@ -716,7 +713,7 @@ Articles
     :types: Article
     :industries: All
 
-    `IEEE Spectrum-Lessons From a Decade of IT Failures <http://spectrum.ieee.org/static/lessons-from-a-decade-of-it-failures>`_
+    `IEEE Spectrum-Lessons From a Decade of IT Failures <https://spectrum.ieee.org/lessons-from-a-decade-of-it-failures>`_
 
 Papers
 ------
@@ -734,13 +731,6 @@ Papers
     (system safety, industrial safety engineering, and reliability engineering).
     An attempt is made to lay out the properties of industries and systems that
     make one approach more appropriate than another.
-
-.. aws-meta::
-    :types: Paper
-    :industries: All
-    :keywords: Safety Standards, Software Safety Standards
-
-    `Software Safety Standards: Evolution and Lessons Learned <http://paris.utdallas.edu/reu/document/01-Publications/04-Software-Safety-Standards-TSA.pdf>`_
 
 .. aws-meta::
     :types: Paper
@@ -838,7 +828,7 @@ Reports
     :types: Report
     :industries: Nuclear
 
-    `Licensing of safety critical software for nuclear reactors (2018) <https://www.base.bund.de/SharedDocs/Downloads/BASE/EN/reports/kt/Report-Software.pdf?__blob=publicationFile&v=2>`_
+    `Licensing of safety critical software for nuclear reactors (2018) <https://www.stralsakerhetsmyndigheten.se/contentassets/f714d0f14a6a44dd9296c5fbb9bb1deb/2018-19-licensing-of-safety-critical-software-for-nuclear-reactors.pdf>`_
 
     Common position of international nuclear regulators and authorised technical support organisations
 
@@ -1069,7 +1059,7 @@ Videos
     :keywords: Embedded, Safety
     :people: Phil Koopman
 
-    `Embedded System Safety Lecture Video Series <https://betterembsw.blogspot.de/2017/12/embedded-system-safety-lecture-video.html>`_
+    `Embedded System Safety Lecture Video Series <https://www.youtube.com/@philkoopman/playlists>`_
 
 .. aws-meta::
     :types: Video
