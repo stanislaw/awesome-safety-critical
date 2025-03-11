@@ -1,10 +1,14 @@
-{# Sphinx sidebar template: quick search box. #}
+{# Sphinx sidebar template: search field.
+
+This component is similar to searchbox.html but does not include an
+extra heading ("Quick search"). Instead, it uses a placeholder text
+in the search field.
+#}
 {%- if pagename != "search" and builder != "singlehtml" %}
 <search id="searchbox" style="display: none" role="search">
-  <h3 id="searchlabel">{{ _('Quick search') }}</h3>
     <div class="searchformwrapper">
     <form class="search" action="{{ pathto('search') }}" method="get">
-      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Search"/>
       <input type="submit" value="{{ _('Go') }}" />
     </form>
     </div>

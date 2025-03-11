@@ -7,260 +7,134 @@
  *
  */
 
-$(function() {
-  /// Constants
-  var CATEGORIES = [
+document.addEventListener("DOMContentLoaded", function () {
+  const CATEGORIES = [
     'types', 'keywords', 'languages', 'standards', 'industries', 'companies', 'people'
   ];
 
-  var COLORS = {
+  const COLORS = {
     active: 'red',
     inactive: '#eee',
     noContent: '#aaa'
   };
 
-  var KEYWORD_STATE = Object.freeze({"active":1, "inactive":2, "nocontent":3});
+  const KEYWORD_STATE = Object.freeze({ active: 1, inactive: 2, nocontent: 3 });
 
-  /// Main DOM nodes
-  var keywords = $('.keyword');
-  var sections = $('#awesome-safety-critical').children('.section');
-  var ascNodes = $('div.aws-node');
+  const keywords = document.querySelectorAll('.keyword');
+  const sections = document.querySelectorAll('#awesome-safety-critical .section');
+  const ascNodes = document.querySelectorAll('div.aws-node');
 
-  /// Editing styles
+  const ascShow = (element) => {
+    element.classList.add('aws-active');
+    element.classList.remove('aws-inactive');
+  };
 
-  var ascShow = function(object) {
-      object.addClass('aws-active').removeClass('aws-inactive');
-  }
+  const ascHide = (element) => {
+    element.classList.add('aws-inactive');
+    element.classList.remove('aws-active');
+  };
 
-  var ascHide = function(object) {
-      object.addClass('aws-inactive').removeClass('aws-active');
-  }
+  const keywordSetHighlighted = (keyword, state) => {
+    keyword.setAttribute('active', state === KEYWORD_STATE.active);
+    keyword.classList.toggle('keyword-active', state === KEYWORD_STATE.active);
+    keyword.classList.toggle('keyword-inactive', state === KEYWORD_STATE.inactive);
+    keyword.classList.toggle('keyword-nocontent', state === KEYWORD_STATE.nocontent);
+  };
 
-  var keywordSetHighlighted = function(keyword, state) {
-    if (state == KEYWORD_STATE.active) {
-      keyword.attr('active', true);
-      keyword.addClass('keyword-active')
-             .removeClass('keyword-inactive')
-             .removeClass('keyword-nocontent');
-    } else if (state == KEYWORD_STATE.inactive) {
-      keyword.attr('active', false);
-      keyword.addClass('keyword-inactive')
-             .removeClass('keyword-active')
-             .removeClass('keyword-nocontent');
-    } else if (state == KEYWORD_STATE.nocontent) {
-      keyword.attr('active', false);
-      keyword.addClass('keyword-nocontent')
-             .removeClass('keyword-active')
-             .removeClass('keyword-inactive');
-    } else {
-      console.assert(false, "should not reach here");
-    }
-  }
-
-  /// Logic
-
-  var filter = function() {
-    var _filter = {}
-
-    function dump() {
-      console.log("filter dump:");
-      console.log(_filter);
-    }
-
-    function add(category, value) {
-      console.log("filter add: " + category + ': ' + value);
-      if (!_filter[category]) {
-        _filter[category] = []
-      }
-      _filter[category].push(value);
-    }
-
-    function remove(category, value) {
-      var categoryValues = _filter[category];
-      var index = categoryValues.indexOf(value);
-
-      if (index > -1) {
-        categoryValues.splice(index, 1);
-      }
-
-      if (categoryValues.length === 0) {
-        delete _filter[category];
-      }
-    }
-
-    function shouldWhitelist(meta) {
-      var categories = Object.keys(_filter);
-
-      var categoryMatches = 0;
-
-      for (var categoryIdx = 0; categoryIdx < categories.length; categoryIdx++) {
-        var category = categories[categoryIdx];
-        var categoryValues = _filter[category];
-
-        var values = meta[category];
-        if (values === undefined) {
-          return false;
-        }
-
-        var metaHasFilterKeyword = false;
-        for (var i = 0; i < values.length; i++) {
-          var value = values[i];
-          if (categoryValues.indexOf(value) !== -1) {
-            metaHasFilterKeyword = true;
-            break;
-          }
-        }
-        if (metaHasFilterKeyword === false) {
-          return false;
-        }
-
-        categoryMatches = categoryMatches + 1;
-      }
-
-      return categoryMatches === categories.length;
-    }
-
-    function categories() {
-      return Object.keys(_filter);
-    }
-
-    function includesTag(category, value) {
-      var categoryValues = _filter[category];
-      if (!categoryValues) {
-        return false;
-      }
-      return categoryValues.indexOf(value) !== -1;
-    }
+  const filter = (() => {
+    const _filter = {};
 
     return {
-      dump: dump,
-      add: add,
-      remove: remove,
-      shouldWhitelist: shouldWhitelist,
-      categories: categories,
-      includesTag: includesTag
-    }
-  }();
+      dump: () => console.log("filter dump:", _filter),
+      add: (category, value) => {
+        if (!_filter[category]) _filter[category] = [];
+        _filter[category].push(value);
+      },
+      remove: (category, value) => {
+        const index = _filter[category]?.indexOf(value);
+        if (index > -1) _filter[category].splice(index, 1);
+        if (_filter[category]?.length === 0) delete _filter[category];
+      },
+      shouldWhitelist: (meta) => {
+        return Object.entries(_filter).every(([category, values]) =>
+          meta[category]?.some((value) => values.includes(value))
+        );
+      },
+      categories: () => Object.keys(_filter),
+      includesTag: (category, value) => _filter[category]?.includes(value) || false,
+    };
+  })();
 
-  var filterNodes = function() {
-    console.log("current filter: ");
+  const filterNodes = () => {
     filter.dump();
-    var filterCategories = filter.categories();
-    if (filterCategories.length === 0) {
-      ascShow(ascNodes);
-      ascShow(sections);
+    const filterCategories = filter.categories();
 
-      keywordSetHighlighted(keywords, KEYWORD_STATE.inactive);
+    if (filterCategories.length === 0) {
+      ascNodes.forEach(ascShow);
+      sections.forEach(ascShow);
+      keywords.forEach((kw) => keywordSetHighlighted(kw, KEYWORD_STATE.inactive));
       return;
     }
 
-    totalMeta = {};
+    const totalMeta = {};
 
-    ascNodes.each(function(i, _ascNode) {
-      var ascNode = $(_ascNode);
-      //console.log(ascNode);
+    ascNodes.forEach((ascNode) => {
+      const meta = {};
 
-      meta = {};
-      CATEGORIES.forEach(function(category, i) {
-        //console.log('%d: %s', i, category);
-
-        var ascNodeValue = ascNode.attr(category);
-        if (ascNodeValue === undefined) {
-          return;
-        }
-
-        ascNodeValues = ascNodeValue.split(', ');
-        meta[category] = ascNodeValues;
+      CATEGORIES.forEach((category) => {
+        const value = ascNode.getAttribute(category);
+        if (value) meta[category] = value.split(', ');
       });
 
       if (filter.shouldWhitelist(meta)) {
         ascShow(ascNode);
-
-        console.log("given meta");
-        console.log(meta);
-        Object.keys(meta).forEach(function(category) {
-          if (!totalMeta[category]) {
-            totalMeta[category] = new Set();
-          }
-
-          categoryValues = meta[category];
-
-          categoryValues.forEach(function(categoryValue) {
-            totalMeta[category].add(categoryValue);
-          });
+        Object.entries(meta).forEach(([category, values]) => {
+          totalMeta[category] = totalMeta[category] || new Set();
+          values.forEach(value => totalMeta[category].add(value));
         });
       } else {
         ascHide(ascNode);
       }
     });
 
-    console.log("totalMeta");
-    console.log(totalMeta);
-
-    keywords.each(function(i, _keyword) {
-      var keyword = $(_keyword);
-
-      var category = keyword.attr('category');
-      console.assert(!!category);
-      var value = keyword.text();
-      console.assert(!!value);
-
-//      console.log("value");
-//      console.log(value);
+    keywords.forEach((keyword) => {
+      const category = keyword.getAttribute('category');
+      const value = keyword.textContent.trim();
 
       if (filter.includesTag(category, value)) {
         keywordSetHighlighted(keyword, KEYWORD_STATE.active);
       } else {
         keywordSetHighlighted(keyword, KEYWORD_STATE.inactive);
 
-        var totalMetaCategoryValues = totalMeta[category];
-
-//        console.log("totalMetaCategoryValues");
-//        console.log(totalMetaCategoryValues);
-
-        if (totalMetaCategoryValues === undefined || !totalMetaCategoryValues.has(value)) {
+        if (!totalMeta[category]?.has(value)) {
           keywordSetHighlighted(keyword, KEYWORD_STATE.nocontent);
         }
       }
     });
 
-    sections.each(function(i, _section) {
-      var section = $(_section);
-
-      var ascNodes = $(section).find('.aws-node');
-
-      // This section does not have any ASC nodes, skipping.
-      if (ascNodes.length == 0) {
-        return;
-      }
-
-      var activeAscNodes = $(section).find('.aws-active');
-
+    sections.forEach((section) => {
+      const activeAscNodes = section.querySelectorAll('.aws-active');
       if (activeAscNodes.length > 0) {
         ascShow(section);
       } else {
         ascHide(section);
       }
     });
-  }
+  };
 
-  keywords.click(function() {
-    var keyword = $(this);
+  keywords.forEach((keyword) => {
+    keyword.addEventListener('click', () => {
+      const category = keyword.getAttribute('category');
+      const value = keyword.textContent.trim();
+      const isActive = keyword.getAttribute('active') === 'true';
 
-    var category = keyword.attr('category');
-    console.assert(!!category);
-    var value = keyword.text();
-    console.log(!!value);
+      if (!isActive) {
+        filter.add(category, value);
+      } else {
+        filter.remove(category, value);
+      }
 
-    var activeAttr = keyword.attr('active');
-    var isActive = (activeAttr && activeAttr == 'true');
-
-    if (!isActive) {
-      filter.add(category, value);
-    } else {
-      filter.remove(category, value);
-    }
-
-    filterNodes();
+      filterNodes();
+    });
   });
 });
