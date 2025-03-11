@@ -174,7 +174,7 @@ Software safety standards
     :industries: Railways
     :keywords: Safety, Functional Safety
 
-    `IEC 62279/EN 50128 <https://second.wiki/wiki/en_50128>`_
+    `IEC 62279/EN 50128 <https://standards.iteh.ai/catalog/standards/iec/5687ec25-bbd4-48b6-b156-498c78ccda0e/iec-62279-2015?srsltid=AfmBOoocZdN2luyHTsGGNKiFML9cv38SJ6k-BHvfO5SpDbelU2UN2RDb>`_
 
     IEC 62279 provides a specific interpretation of IEC 61508 for railway
     applications. It is intended to cover the development of software for
@@ -327,19 +327,10 @@ Handbooks
     :companies: NASA
     :keywords: Safety
 
-    `NASA-GB-8719.13 - 2004-03-31 - NASA Software Safety Guidebook <https://standards.nasa.gov/standard/nasa/nasa-gb-871913>`_
+    `NASA-GB-8719.13 - 2004-03-31 - NASA Software Safety Guidebook <https://standards.nasa.gov/sites/default/files/standards/NASA/Baseline/0/nasa-gb-871913.pdf>`_
 
     NASA's Software Safety Guidebook (pdf file). The handbook complement to the
     Software Safety Standard.
-
-.. aws-meta::
-    :types: Handbook
-    :industries: Space
-    :companies: NASA
-    :keywords: Safety, Software
-
-    `NASA Software Engineering and Assurance Handbook
-    <https://swehb.nasa.gov/display/SWEHBVC/Book+A.+Introduction>`_
 
 .. aws-meta::
     :types: Handbook
@@ -690,7 +681,7 @@ Topic: MC/DC
     :keywords: MC/DC
 
     `An Investigation of Three Forms of the Modified Condition Decision Coverage (MCDC) Criterion
-    <http://www.tc.faa.gov/its/worldpac/techrpt/ar01-18.pdf>`_
+    <https://www.faa.gov/sites/faa.gov/files/aircraft/air_cert/design_approvals/air_software/AR-01-18_MCDC.pdf>`_
 
 .. aws-meta::
     :types: Paper
