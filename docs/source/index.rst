@@ -417,6 +417,21 @@ Coding guidelines
 
 .. aws-meta::
     :types: Coding guidelines
+    :keywords: BARR-C
+    :languages: C
+    :industries: All
+    :companies: Barr Group
+
+    `BARR-C: Embedded C Coding Standard <https://barrgroup.com/embedded-c-coding-standard>`_
+
+    Barr Group's Embedded C Coding Standard (BARR-C:2018), a coding standard
+    focused on reducing firmware bugs, stylistically harmonized with MISRA C:2012.
+    Free PDF and online edition. An open-source enforcement kit (clang-format,
+    clang-tidy, compiler gates, CI) is at
+    `github.com/netrinomike/barr-c <https://github.com/netrinomike/barr-c>`_.
+
+.. aws-meta::
+    :types: Coding guidelines
     :keywords: AUTOSAR
     :languages: C++
     :industries: All, Automotive
